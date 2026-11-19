@@ -1,5 +1,5 @@
 {
- "generated_at_kst": "2026-11-19 10:18:52",
+ "generated_at_kst": "2026-11-19 10:47:47",
  "kst_date": "2026-11-19",
  "prev_date": "2026-11-18",
  "window": [
@@ -9,287 +9,399 @@
  "source": "naverapihub.apigw.ntruss.com + opendart.fss.or.kr via GitHub Actions",
  "counts": {
   "articles": 279,
-  "filings": 33
+  "filings": 34
  },
  "naver": {
   "코스피 마감": [
    {
-    "title": "[개장시황] 코스피, 美 증시 혼조 여파에 장 초반 등락",
-    "description": "com 코스피가 장 초반 보합권에서 등락을 반복하고 있다. 엔비디아의 호실적에도 인공지능(AI) 투자 수익성에 대한 우려와 미국 연방준비제도(Fed)의 매파적 기조가 부각되며 간밤 뉴욕증시가 혼조세로 마감한...",
-    "url": "https://www.ajunews.com/view/20261119100729321",
-    "publisher": "ajunews.com",
+    "title": "코스피, 상승 출발 후 1%대 하락 전환...외국인 5거래일 연속 순매도",
+    "description": "장중 5,000선 붕괴...美 금리 인상 우려·앤트로픽 상장 앞두고 투자심리 위축 코스피가 19일 상승... 간밤 뉴욕상업거래소에서 12월 인도분 서부텍사스산원유(WTI) 선물 가격은 3.20% 급락한 배럴당 83.26달러로 마감하...",
+    "url": "https://www.m-economynews.com/news/article.html?no=73281",
+    "publisher": "m-economynews.com",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "엔비디아 흔들려도 보합권서 버티는 코스피…\"관건은 앤스로픽 상장\"",
-    "description": "19일 한국거래소에 따르면 오전 10시 5분 코스피 지수는 전 거래일 대비 7.39포인트(0.15%) 오른 5074.83에... 간밤 뉴욕증시는 3대 주요 지수가 혼조세로 마감했다. 다우존스30 산업평균지수와 스탠더드앤드푸어스(S...",
-    "url": "https://www.etoday.co.kr/news/view/2650226",
-    "publisher": "etoday.co.kr",
+    "title": "삼성전자·SK하이닉스 상승 출발 뒤 급반전…장중 하락폭 2%대로 확대",
+    "description": "간밤 뉴욕증시는 3대 주가지수가 혼조로 마감했다. 다우존스30 산업평균지수는 1.11%, 스탠더드앤드푸어스... 삼성전자와 SK하이닉스가 속한 코스피 전기·전자 업종에서도 외국인과 기관이 288억원과 717억원 매도...",
+    "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000084408",
+    "publisher": "jnilbo.com",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "수능날 찬바람에도 증시는 빨간불…코스피 5100선 코앞",
-    "description": "마감도 한 시간 밀린 오후 4시 30분이다. 전체 거래시간은 기존과 같은 6시간 30분이다. 현재 코스피에서는 외국인이 110억원을 순매수하고 있다. 개인과 기관은 각각 86억원, 51억원을 순매도 중이다....",
-    "url": "https://news.tf.co.kr/read/economy/2390787.htm",
-    "publisher": "news.tf.co.kr",
+    "title": "[마켓펄스] '빅스텝' 우려에 AI 수익성 경계감↑...5000피 또 붕괴",
+    "description": "상승 출발했던 코스피는 장중 하락 전환하며 5000선 아래로 내려왔다. 19일 한국거래소에 따르면 코스피는... 애프터마켓 개장 시간은 기존 오후 4시에서 오후 5시로 변경됐으며 마감 시간은 오후 8시 그대로다. 장...",
+    "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=130964",
+    "publisher": "ntoday.co.kr",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "[개장시황] 수능일 1시간 늦게 열린 증시…코스피·코스닥 약보합",
-    "description": "대학수학능력시험을 치르는 수험생들의 원활한 이동과 교통 혼잡 완화를 위해 개장과 마감 시간을 각각 1시간씩 늦췄다. 이날 오전 10시8분 기준 코스피는 전 거래일보다 7.02포인트(0.14%) 내린 5,060.42를...",
-    "url": "https://www.namdonews.com/news/articleView.html?idxno=929784",
-    "publisher": "namdonews.com",
+    "title": "'젠슨 황 공백'에 연준 매파까지 … 수능날 '코스피' 상승 출발 후 하락...",
+    "description": "뉴데일리 박정은 = 수능날인 가운데 코스피가 상승 출발했지만 장 초반 하락세로 돌아섰다. 간밤... 18일(현지시간) 로이터통신 등 외신에 따르면 미국 뉴욕증시는 간밤 혼조세로 마감했다. 나스닥지수는 장중...",
+    "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950085.html",
+    "publisher": "biz.newdaily.co.kr",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "[개장시황] 수능일 코스피 상승 출발 뒤 하락 전환⋯5060선 약보합",
-    "description": "2027학년도 대학수학능력시험이 치러지는 19일 코스피가 평소보다 1시간 늦게 개장한 뒤 상승... 지난 18일 뉴욕증시 3대 지수는 혼조세로 마감했다. 나스닥종합지수는 전 거래일보다 0.42% 상승했으나...",
-    "url": "https://www.viva100.com/article/20261118500022",
-    "publisher": "viva100.com",
+    "title": "코스피 하루 만에 다시 5000선 아래로…외국인 5거래일 연속 순매도",
+    "description": "19일 코스피가 상승 출발했다가 방향을 바꿔 1%대의 하락을 기록 중이다. 5090선 출발 후 급락…외국인... 26달러로 마감, 지난 8월 26일 이후 약 3개월 만의 최저치를 기록했다. 간밤 뉴욕증시는 혼조였다....",
+    "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000084406",
+    "publisher": "jnilbo.com",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "수능일 코스피·코스닥 상승 출발",
+    "title": "코스피, 보합권 출발 후 5000선 다시 붕괴…외인·기관 매도[개장시황]",
+    "description": "전날에는 1.99% 오른 5067.44에 마감하며 하루 만에 5000선을 회복한 바 있다. 코스피시장에서 외국인과 기관은 각각 816억 원, 754억 원을 순매도하고 있다. 개인은 1169억 원을 순매수 중이다. 간밤 미국...",
+    "url": "https://www.news1.kr/finance/general-stock/6359194",
+    "publisher": "news1.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "[특징주] 삼전·닉스, 앤트로픽 상장 앞두고 장 초반 1~2%대 하락",
+    "description": "간밤 뉴욕증시는 3대 주가지수가 혼조로 마감했다. 다우존스30 산업평균지수는 1.11%, 스탠더드앤드푸어스... 삼성전자와 SK하이닉스가 속한 코스피 전기·전자 업종에서도 외국인과 기관이 288억원과 717억원 매도...",
+    "url": "https://www.yna.co.kr/view/AKR20261119060100008?input=1195m",
+    "publisher": "yna.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "코스피, 낙폭 확대해 1%대 하락…수능일 한 시간 늦게 개장",
+    "description": "평소보다 1시간 늦게 개장, 마감한다. 수능일 코스피 상승 출발(서울=연합뉴스) 이재희 기자 = 19일 서울 중구 하나은행 본점 딜링룸에서 직원들이 업무를 보고 있다. 이날 코스피는 전장보다 0.45% 오른 5,090....",
+    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445501",
+    "publisher": "news.einfomax.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "코스피, 5020선 등락···엔비디아 호실적에도 AI 투자 우려 지속",
+    "description": "| 스마트비즈 = 최준 기자 | 코스피가 장 초반 상승분을 반납하고 5020선에서 등락을 거듭하고 있다. 엔비디아가 시장 예상치를 웃도는 실적을 발표했지만 미국 증시가 혼조세로 마감한 데다 인공지능(AI) 인프라...",
+    "url": "https://www.smartbizn.com/news/articleView.html?idxno=159931",
+    "publisher": "smartbizn.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "코스피, 앤트로픽 상장 앞두고 1%대↓…상승출발후 하락전환(종합)",
+    "description": "19일 코스피가 상승 출발했다가 방향을 바꿔 1%대의 하락을 기록 중이다. 이날 오전 10시 26분 현재... 간밤 뉴욕상업거래소에서 12월 인도분 미 서부 텍사스산 원유(WTI) 선물은 3.20% 급락한 배럴당 83.26달러로 마감...",
+    "url": "https://www.yna.co.kr/view/AKR20261119063200008?input=1195m",
+    "publisher": "yna.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "코스피·코스닥 '상승 출발', 원달러환율 '하락'",
     "description": "본점 딜링룸 현황판에 코스피 지수와 코스닥 지수가 표시되고 있다. 대학수학능력시험일인 이날은 국내 증시 정규장이 평소보다 1시간 늦은 오전 10시에 개장, 마감 시간도 오후 4시 30분으로 늦춰진다. 2026.11.19/뉴스1",
-    "url": "https://www.news1.kr/photos/8222341",
+    "url": "https://www.news1.kr/photos/8222367",
+    "publisher": "news1.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "코스피·코스닥 '동반 상승 출발'",
+    "description": "본점 딜링룸 현황판에 코스피 지수와 코스닥 지수가 표시되고 있다. 대학수학능력시험일인 이날은 국내 증시 정규장이 평소보다 1시간 늦은 오전 10시에 개장, 마감 시간도 오후 4시 30분으로 늦춰진다. 2026.11.19/뉴스1",
+    "url": "https://www.news1.kr/photos/8222361",
+    "publisher": "news1.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "동반 상승 출발한 코스피·코스닥",
+    "description": "본점 딜링룸 현황판에 코스피 지수와 코스닥 지수가 표시되고 있다. 대학수학능력시험일인 이날은 국내 증시 정규장이 평소보다 1시간 늦은 오전 10시에 개장, 마감 시간도 오후 4시 30분으로 늦춰진다. 2026.11.19/뉴스1",
+    "url": "https://www.news1.kr/photos/8222360",
     "publisher": "news1.kr",
     "pub_date": "2026-11-19"
    },
    {
     "title": "코스피·코스닥 '상승 출발'",
     "description": "본점 딜링룸 현황판에 코스피 지수와 코스닥 지수가 표시되고 있다. 대학수학능력시험일인 이날은 국내 증시 정규장이 평소보다 1시간 늦은 오전 10시에 개장, 마감 시간도 오후 4시 30분으로 늦춰진다. 2026.11.19/뉴스1",
-    "url": "https://www.news1.kr/photos/8222342",
+    "url": "https://www.news1.kr/photos/8222358",
     "publisher": "news1.kr",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "[개장시황] 코스피, 22.60포인트(+0.83%) 오른 5090.04 출발",
-    "description": "라이센스뉴스 = 김재용 기자 | 19일, 코스피가 전 거래일에 비해 22.60포인트(+0.83%) 상승한 5090.... 다우존스 산업지수 5만198.17(-1.11%), S&P500 7323.63(-0.23%), 나스닥 종합 2만4429.89(+0.42%) 등 혼조 마감했다.",
-    "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=211653",
-    "publisher": "lcnews.co.kr",
+    "title": "코스피, 5100선 돌파 후 하락 전환...화장품·엔터주 강세",
+    "description": "사진=정준범 기자 코스피가 뉴욕증시의 혼조세와 미국 연방준비제도(Fed·연준)의 추가 금리 인상... 혼조세로 마감했다. 18일(현지시간) 다우지수는 561.25포인트(1.11%) 하락한 5만198.17에 거래를 마쳤다. S...",
+    "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505783",
+    "publisher": "pinpointnews.co.kr",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "코스피, 외국인 매수에 5090선 회복…코스닥도 상승",
-    "description": "코스피는 지난 18일 1.99% 오른 5067.44에 마감하며 5000선을 회복했다. 코스닥 역시 전날 1.96% 상승한 662.81로 거래를 마쳤다. 다만 간밤 미국 증시는 약세를 보였다. 다우존스30산업평균지수는 1.11% 하락한 5만198....",
-    "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1732238",
-    "publisher": "ebn.co.kr",
+    "title": "코스피, 5100선 찍고 상승폭 축소…코스닥 하락 전환",
+    "description": "코스피가 장 초반 5100선을 넘겼다가 외국인 매도세에 상승폭을 줄였다. 코스닥은 0.8%대 상승... 간밤 뉴욕증시는 혼조세로 마감했다. 다우지수와 S&P500지수는 각각 1.11%, 0.23% 내렸고 나스닥지수는 0.42...",
+    "url": "https://news.mtn.co.kr/article/2026111910272542870",
+    "publisher": "news.mtn.co.kr",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "코스피, 5090.04 상승 출발… 삼성전자·SK하이닉스 동반 강세",
-    "description": "코스피 코스닥 증시 환율 자료사진 [자료사진 = 위키미디어 커먼즈(CC0)] 국내 증시가 2027학년도... 평소보다 1시간 늦은 오전 10시에 개장했으며, 장 마감 시각 역시 1시간 순연된 오후 4시 30분으로 조정됐다.",
-    "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756717",
-    "publisher": "gukjenews.com",
+    "title": "코스피, 美 긴축 우려에 강보합 출발…한한령 해제 기대에 화장품·여행...",
+    "description": "코스피가 미국 연방준비제도(Fed)의 추가 금리 인상 우려에도 장 초반 강보합으로 출발했으나 하락... 혼조세로 마감했다. 다우존스30산업평균지수는 전 거래일보다 561.25포인트(1.11%) 하락한 5만198.17에 거래를...",
+    "url": "http://www.beyondpost.co.kr/view.php?ud=202611191018436349be44c0aacd_30",
+    "publisher": "beyondpost.co.kr",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "코스피 5090.04 출발…개장 직후 더 강하게 반등한 시장은",
-    "description": "11월 19일 코스피와 코스닥이 개장 직후 동반 상승 출발하며 국내 증시가 이틀 연속 오름세를... 전일 662.81포인트로 마감했던 코스닥은 이날 668.31포인트로 시가를 형성한 뒤 곧바로 669.46포인트까지 올라...",
-    "url": "https://www.wikitree.co.kr/articles/1175866",
-    "publisher": "wikitree.co.kr",
+    "title": "美 증시 혼조세에…코스피 장초반 보합권에서 '오락가락'",
+    "description": "반면 다우존스30산업평균지수는 561.25포인트(1.11%) 내린 5만198.17, S&P500 지수는 16.90포인트(0.23%) 떨어진 7323.63으로 마감했다. 이 시각 현재 코스피는 개인과 기관이 각각 299억원, 137억원어치 주식을 순매수하고...",
+    "url": "https://www.mt.co.kr/stock/2026/11/19/2026111910232452883",
+    "publisher": "mt.co.kr",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "[속보] 코스피, 0.45% 오른 5090.04 출발",
-    "description": "42% 상승 마감하는 등 보합권에 머물기도 했다. 한지영 키움증권 연구원은 “현재 코스피와 코스닥은 낙폭 과대 주도주를 중심으로 진입 매력이 있는 것으로 볼 수 있다”면서도 “변동성 확대가 나타날 수 있는...",
-    "url": "https://www.chosun.com/economy/money/2026/11/19/GLTVN5D7EZCWDCVS6WWWZ4P65M/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-    "publisher": "chosun.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "수능날엔 코스피보다 코스닥?…10년치 증시 성적표 보니",
-    "description": "01%을 웃돌았지만, 이듬해 수능일인 2017년 11월 23일에는 코스피가 0.13% 내린 반면 코스닥 지수는 2.04% 급등했다. 당시 코스닥 지수는 796.80으로 마감해 종가 기준 2007년 11월 이후 약 10년 만에 가장 높은 수준을 기록하기도...",
-    "url": "https://www.newsis.com/view/NISX20261119_0003874347",
-    "publisher": "newsis.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "[기자수첩] 붉은 말의 고삐",
-    "description": "6월 19일 장중 9385.59까지 올랐던 코스피는 이달 17일 4968.48에 마감했다. 다섯 달도 안 돼 47.1%가 빠졌다. 이튿날 5000선을 되찾았고, 길게 보면 여전히 많이 오른 시장이다. 그 말로는 9000에서 5000까지 오는 동안 무슨 일이...",
-    "url": "https://www.m-i.kr/news/articleView.html?idxno=2020626",
-    "publisher": "m-i.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "수능일 국내 증시 오전 10시 개장…평소보다 1시간 늦춰",
-    "description": "코스피가 98.96포인트(1.99%) 상승한 5,067.44로 장을 마감한 전날 18일 오후 서울 중구 하나은행 딜링룸 전광판에 지수가 표시되고 있다./뉴시스 대학수학능력시험이 치러지는 19일 국내 증시가 평소보다 1시간 늦은...",
-    "url": "http://www.metroseoul.co.kr/article/20261119500049",
-    "publisher": "metroseoul.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "K엔터 '역주행' 시작?… 올해 43% 빠진 엔터주, 한한령 사실상 해제 수순...",
-    "description": "19일 한국거래소 등에 따르면 코스피 오락·문화 지수는 전날 810.81에 마감해 연초 대비 42.79% 하락했다. 코스피 업종지수 23개 가운데 최하위다. 같은 기간 코스피 지수는 20.25% 올라 두 지수의 수익률 격차는 63.04%p에...",
-    "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950045.html",
-    "publisher": "biz.newdaily.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "수능일 국내 주식시장 개장 시간··· 오전 10시 시작, 거래시간 1시간...",
-    "description": "2027학년도 대학수학능력시험이 치러지는 19일 국내 주식시장의 개장과 마감 시간이 평소보다 1시간씩... 코스피200선물·옵션과 미니코스피200선물·옵션, KRX300선물, 국채선물 등 주식·금리 상품은 오전 9시...",
-    "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=95555",
-    "publisher": "mediafine.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "수능일 맞아 증시 개장 1시간 늦춰...정규장 오후 4시30분 종료",
-    "description": "장 종료 후 운영되는 애프터마켓은 오후 5시에 시작해 오후 8시에 마감한다. 장 개시 전과 장 종료 후... 코스피200선물·옵션과 미니코스피200선물·옵션, KRX300선물, 국채선물 등 주식·금리 상품은 오전 9시 45분부터...",
-    "url": "https://www.thepublic.kr/news/articleView.html?idxno=327452",
-    "publisher": "thepublic.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "수능일 주식시장 1시간 늦게 개장…프리마켓은 휴장",
-    "description": "오전 9시 45분에 거래를 시작해 오후 3시 45분에 마감한다. 코스피200 선물과 미국 달러 선물 등의 야간시장은 오후 7시부터 다음 날 오전 6시까지 운영된다. 돈육선물 거래시간은 기존과 동일하다....",
-    "url": "https://www.mydaily.co.kr/page/view/2026111909204095712",
-    "publisher": "mydaily.co.kr",
+    "title": "코스피, 美 증시 혼조 속 장 초반 5060선 등락···삼전·닉스 엇갈려",
+    "description": "간밤 뉴욕증시가 혼조세로 마감한 가운데 외국인의 매도세가 이어지면서 지수 상승이 제한되는 모습이다. 19일 오전 10시 8분 현재 코스피 지수는 전 거래일보다 3.59p(0.07%) 내린 5063.85를 기록하고 있다....",
+    "url": "https://www.seoulfn.com/news/articleView.html?idxno=643302",
+    "publisher": "seoulfn.com",
     "pub_date": "2026-11-19"
    }
   ],
   "원달러 환율": [
    {
-    "title": "수능 날 달러-원 환율은 어디로…20년치 기록 살펴봤더니",
-    "description": "2026.11.18 jieunlee@yna.co.kr 대학수학능력시험 당일 달러-원 환율은 어떻게 움직였을까. 19일 연합인포맥스 달러-원 일별 거래 종합(화면번호 2150)에 따르면 달러-원 환율은 지난 2006년부터 2025년까지 20년 동안 매년 수능...",
-    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445492",
-    "publisher": "news.einfomax.co.kr",
+    "title": "[마켓펄스] '빅스텝' 우려에 AI 수익성 경계감↑...5000피 또 붕괴",
+    "description": "50포인트(+0.83%) 오른 668.31에 장을 시작했다. 개인은 1391억원 순매수 중이고, 외국인과 기관은 각각 1356억원, 49억원 순매도하고 있다. 한편 서울 외환시장에서 달러·원 환율은 1330.70원을 기록 중이다.",
+    "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=130964",
+    "publisher": "ntoday.co.kr",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "한중 관광 교류 확대 기대…노랑풍선 상한가 ·하나투어 '펄펄 끓네'",
-    "description": "다만 여행업은 원·달러 환율과 국제유가, 항공권 가격, 유류할증료 및 비자 정책 등 외부 변수에 민감하다. 한중 교류 확대가 실제 여행객 증가와 상품 예약률 개선으로 이어지는지, 늘어난 매출이 수익성 회복으로...",
-    "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505777",
-    "publisher": "pinpointnews.co.kr",
+    "title": "코스피, 기관‧외국인 매도에 장중 5000선 내줘",
+    "description": "32%, 심텍 －4.0%, 이오테크닉스 －5.95%, 리노공업 －1.14%, HLB －1.47%, 로보티즈 －2.71%, 원익IPS －3.53% 등이 하락했다. 한편 서울 외환시장에서 원/달러 환율은 전일 대비 2.8원 내린 1330.9원에 거래되고 있다.",
+    "url": "https://view.asiae.co.kr/article/2026111910441343851",
+    "publisher": "view.asiae.co.kr",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "[개장시황] 수능일 코스피 상승 출발 뒤 하락 전환⋯5060선 약보합",
-    "description": "47%) 오른 17만1700원에 거래되고 있다. 에코프로는 300원(0.43%) 내린 6만8700원을 나타내고 있다. 서울 외환시장에서 원·달러 환율은 오전 10시 기준 1331.1원을 나타내고 있다.",
-    "url": "https://www.viva100.com/article/20261118500022",
-    "publisher": "viva100.com",
+    "title": "[포토] 상승 출발후 하락하는 코스피",
+    "description": "19일 대학수학능력시험으로 1시간 늦게 장을 시작한 코스피가 상승출발 이후 등락을 거듭하고 있는 가운데 서울 중구 하나은행 본점 딜링룸에 코스피와 코스닥, 원/달러 환율 등이 표시되고 있다.",
+    "url": "https://view.asiae.co.kr/article/2026111910402140988",
+    "publisher": "view.asiae.co.kr",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "코스피, 0.45% 상승 출발…코스닥, 0.83%↑",
-    "description": "45% 오른 5090,04에 장을 열었습니다. 코스닥 지수 역시 0.83% 상승한 668.31에 출발했습니다. 서울 외환시장에서 원·달러 환율은 1,330원대 초반에서 거래되고 있습니다. #코스피 #코스닥",
-    "url": "http://www.yonhapnewstv.co.kr/news/AKR20261119101241qZk",
-    "publisher": "yonhapnewstv.co.kr",
+    "title": "[포토] 등락 거듭하는 코스피",
+    "description": "19일 대학수학능력시험으로 1시간 늦게 장을 시작한 코스피가 상승출발 이후 등락을 거듭하고 있는 가운데 서울 중구 하나은행 본점 딜링룸에 코스피와 코스닥, 원/달러 환율 등이 표시되고 있다.",
+    "url": "https://view.asiae.co.kr/article/2026111910405157033",
+    "publisher": "view.asiae.co.kr",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "달러-원 TWAP 산출방식 발표 임박…당국·외환시장 준비 '착착'",
-    "description": "기관 최종 의견수렴 완료…외시협 등 통해 공지 예정 김지연 김학성 기자 = 내년부터 달러-원 환율의 매매기준율로 쓰일 시간가중평균환율(티왑·TWAP)의 세부 산출방식이 사실상 확정됐다. 19일 서울외환시장에 따르면...",
-    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445491",
-    "publisher": "news.einfomax.co.kr",
+    "title": "연준 긴축 경계에 코스피 1%대 하락",
+    "description": "90포인트(0.23%) 내린 7323.63에, 나스닥종합지수는 101.50포인트(0.42%) 오른 2만4429.89에 각각 거래를 마쳤습니다. 한편 원·달러 환율은 전 거래일보다 3.40원 내린 1330.60원에 거래되고 있습니다.",
+    "url": "http://www.newstomato.com/ReadNews.aspx?no=1321045&inflow=N",
+    "publisher": "newstomato.com",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "[개장시황] 코스피, 22.60포인트(+0.83%) 오른 5090.04 출발",
-    "description": "오전 10시 8분 현재, 코스피는 5063.85, 코스닥은 664.24, 원·달러 환율은 1330.6을 기록 중이다. 한편, 18일(미국 동부시간) 뉴욕증시 3대 지수는 다우존스 산업지수 5만198.17(-1.11%), S&P500 7323.63(-0.23...",
-    "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=211653",
-    "publisher": "lcnews.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "사상 첫 '미·중·러 3자 정상회담' 개막…코스피 향방 가를 분수령",
-    "description": "만약 3국 정상이 우크라이나 종전이나 핵 군축 분야에서 의미 있는 진전을 이뤄낸다면, 국제유가와 원·달러 환율 등 금융시장을 짓누르던 대외 불확실성이 크게 낮아지고 외국인 투자자들의 매수 심리도 개선될 계기가...",
-    "url": "https://www.widedaily.com/news/articleView.html?idxno=304100",
-    "publisher": "widedaily.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "[오늘 금값] 국제 금값 14개월 만에 최저…19일 국내 순금 한 돈 시세는...",
-    "description": "국내 금값은 국제 금 시세와 원·달러 환율, 국내 수급 등의 영향을 받는다. 19일 국제 금 가격은 트로이온스당 3752.7달러를 기록했다. 앞서 18일(현지시간) 로이터통신에 따르면 국제 금 현물 가격은 3.2% 내린...",
-    "url": "https://www.kizmom.com/news/articleView.html?idxno=114070",
-    "publisher": "kizmom.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "코스피, 외국인 매수에 5090선 회복…코스닥도 상승",
-    "description": "서울 외환시장에서 원·달러 환율은 같은 시각 1330.70원으로 전일 대비 3.30원(0.25%) 하락하고 있다. 달러인덱스도 103.79로 0.07% 내리며 약세를 나타내고 있다. 국제유가도 하락세다. 서부텍사스산원유(WTI) 선물...",
-    "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1732238",
-    "publisher": "ebn.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "삼성자산운용 KODEX 미국S&P500, 개인 순매수 3조원…유보 분배금 지급도...",
-    "description": "분배금을 재투자하지 않을 경우 자동재투자 방식과 장기 복리 효과에도 차이가 생길 수 있다. 특히 미국 대형 기술주의 주가와 원·달러 환율 변동은 분배금과 별개로 ETF의 투자수익률에 영향을 미친다. 토요경제",
-    "url": "https://sateconomy.co.kr/news/view/1065571687728740",
-    "publisher": "sateconomy.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "“전 세계 칩 다 넣어도 부족”…MS ‘자체 CPU’로 승부수",
-    "description": "영업이익 늘어도 순이익 뚝…K소비재기업 환율에 발목 핵심 요약: 실리콘투·KT&G·삼양식품·오리온·CJ제일제당 등 K소비재 기업들이 3분기 사상 최대 수준의 영업이익을 달성했음에도 원·달러 환율이 6월 말 1541....",
-    "url": "https://www.sedaily.com/article/20116281?ref=naver",
-    "publisher": "sedaily.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "[오늘의 원화] 달러-원 1,333.5원 출발…전 거래일 마감보다 0.5원 높게",
-    "description": "원·달러 환율이 1,333.5원에 출발했다. 한국은행 경제통계시스템(ECOS)에 따르면 11월 19일 원·달러 환율 개장가는 1,333.5원으로, 전 거래일 종가보다 0.5원 올랐다. 직전 거래일인 11월 18일에는 오후 3시...",
-    "url": "https://www.tokenpost.kr/news/insights/440480",
-    "publisher": "tokenpost.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "코스피, 장초반 0.16% 상승한 5075.38…코스닥 0.00%↑(2보)",
-    "description": "44를 기록하고 있다. 코스닥은 전일 대비 0.00포인트(p)(0.00%) 상승한 662.81를 기록 하고 있다. 서울외환시장에서 달러·원 환율은 전일 오후 3시 30분 주간종가 대비 2.3원 내린 1330.6원을 기록 중이다.",
-    "url": "https://www.news1.kr/finance/general-stock/6359138",
+    "title": "코스피, 보합권 출발 후 5000선 다시 붕괴…외인·기관 매도[개장시황]",
+    "description": "29%), 다각화된통신서비스(-3.91%), 무역회사와판매업체(-3.46%), IT서비스(-3.40%) 등은 하락하고 있다. 서울외환시장에서 달러·원 환율은 전일 오후 3시 30분 주간종가 대비 2.1원 내린 1330.9원을 기록 중이다.",
+    "url": "https://www.news1.kr/finance/general-stock/6359194",
     "publisher": "news1.kr",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "금융지주 \"연말 코스피 본격 반등 어렵다…환율은 1,300원대 초반 하락...",
-    "description": "반면 원·달러 환율은 역대급 경상수지 흑자에 힘입어 내년 말까지 1,300원대 초반 수준으로 완만하게 떨어질 것으로 분석됐다. 19일 KB·신한·하나금융지주의 3분기 분기보고서에 따르면 하나금융은 \"4분기 정치적·경제적...",
-    "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=399094",
-    "publisher": "fntoday.co.kr",
+    "title": "[포토] 상승 출발 후 하락 이어가는 코스피",
+    "description": "19일 대학수학능력시험으로 1시간 늦게 장을 시작한 코스피가 상승출발 이후 등락을 거듭하고 있는 가운데 서울 중구 하나은행 본점 딜링룸에 코스피와 코스닥, 원/달러 환율 등이 표시되고 있다.",
+    "url": "https://view.asiae.co.kr/article/2026111910393924911",
+    "publisher": "view.asiae.co.kr",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "금(금값, 금시세) 11월 19일, 순금 18K 등 가격은?",
-    "description": "19일 국내 금시세에서는 원·달러 환율의 흐름도 살펴볼 필요가 있다. 국제 금값이 보합세를 나타내더라도 원화 가치가 하락하면 국내 원화 기준 금 가격은 상승할 수 있다. 반대로 국제 금값이 오르더라도...",
-    "url": "https://www.cbci.co.kr/news/articleView.html?idxno=628586",
-    "publisher": "cbci.co.kr",
+    "title": "외국인 올라탄 운송株…유가 하락에 실적 기대감 '쑥'",
+    "description": "지난 10일 원·달러 환율은 1337.5원으로 전 거래일보다 9.6원 하락했다. 항공사들은 항공유 구매와 항공기 리스료, 정비비 등 주요 비용의 상당 부분을 달러로 지급하는 만큼 원화 강세가 수익성 개선에 긍정적으로...",
+    "url": "https://www.imaeil.com/page/view/2026111909360829789",
+    "publisher": "imaeil.com",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "삼성자산운용, '미국S&P500 ETF ' 올해 개인 순매수 3조 돌파",
-    "description": "미국 주식시장 자체의 변동성과 원·달러 환율 변화, 투자 시점에 따라 원화 기준 수익률은 달라질 수 있다. 분배금 지급도 상품의 주요 특징이다. 최근 지급한 분배금은 주당 117원으로 분배율은 0.50%다. 최근 1년...",
-    "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505753",
-    "publisher": "pinpointnews.co.kr",
+    "title": "\"고수익 QD 소재 부진에 환손실까지…한솔케미칼, 4분기 영업이익률 12%...",
+    "description": "한솔케미칼이 원·달러 환율 급락과 고수익 제품인 퀀텀닷(QD) 소재 부진 여파로 시장 기대치를 밑도는 3분기 성적표를 받아 들었다. DS투자증권은 19일 한솔케미칼에 대해 투자의견을 '매수'로 유지하면서도...",
+    "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=305404",
+    "publisher": "newsquest.co.kr",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "[신윤우의 외환분석] 수능날 어떤 '선물' 받을까",
-    "description": "19일 달러-원 환율은 주로 1,330원대에 머물면서 무거운 흐름을 이어갈 것으로 관측된다. 대학수학능력시험일을 맞아 평소보다 조금 늦게 거래가 활성화될 것으로 예상되는 가운데 관건은 통화선물시장에서의 외국인...",
-    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445484",
+    "title": "[포토] 코스피, 코스닥 동반 하락",
+    "description": "19일 대학수학능력시험으로 1시간 늦게 장을 시작한 코스피가 상승출발 이후 등락을 거듭하고 있는 가운데 서울 중구 하나은행 본점 딜링룸에 코스피와 코스닥, 원/달러 환율 등이 표시되고 있다.",
+    "url": "https://view.asiae.co.kr/article/2026111910342577123",
+    "publisher": "view.asiae.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "[오늘 외환딜러 환율 예상레인지]",
+    "description": "19일 서울외환시장의 외환딜러들은 달러-원 환율이 매파적인 10월 연방공개시장위원회(FOMC) 의사록에도 수출업체 네고 물량이 상단을 누르며 1,330원대에서 거래될 것으로 전망했다. 딜러들은 간밤 공개된 FOMC...",
+    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445500",
     "publisher": "news.einfomax.co.kr",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "환율 1320원대…연준 긴축 가능성에도 달러-원화 '힘겨루기'",
-    "description": "원·달러 환율 1327.62원…전일대비 5.38원↓ 연준 긴축 기대감에 달러화는 강세 유지 대외 여건 상관없이 달러 국내 유입은 지속 [사진=연합뉴스] [뉴스투데이=정진욱 기자] 미국 연방준비제도(Fed·연준)가 공개한 10월...",
-    "url": "https://www.news2day.co.kr/article/20261119500121",
-    "publisher": "news2day.co.kr",
+    "title": "[포토] 다시 5000선 아래로 떨어진 코스피",
+    "description": "19일 대학수학능력시험으로 1시간 늦게 장을 시작한 코스피가 상승출발 이후 등락을 거듭하고 있는 가운데 서울 중구 하나은행 본점 딜링룸에 코스피와 코스닥, 원/달러 환율 등이 표시되고 있다.",
+    "url": "https://view.asiae.co.kr/article/2026111910330931960",
+    "publisher": "view.asiae.co.kr",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "달러 19개월 만에 최고·금값 14개월 만에 최저…연준 매파 합창",
-    "description": "19일 서울 외환시장에서 원·달러 환율은 오전 9시6분 기준 1329.2원으로, 전날 주간 거래 종가(1333.0원)보다 낮은 1320원대에서 거래됐다. 전날에도 환율은 5.2원 내린 1333.0원에 마감했다. 반도체 수출 호조로 들어온...",
-    "url": "https://www.edaily.co.kr/News/Read?newsId=02177926645647360&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-    "publisher": "edaily.co.kr",
+    "title": "[포토] 장중 5000선 아래로 떨어진 코스피",
+    "description": "19일 대학수학능력시험으로 1시간 늦게 장을 시작한 코스피가 상승출발 이후 등락을 거듭하고 있는 가운데 서울 중구 하나은행 본점 딜링룸에 코스피와 코스닥, 원/달러 환율 등이 표시되고 있다.",
+    "url": "https://view.asiae.co.kr/article/2026111910335654510",
+    "publisher": "view.asiae.co.kr",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "[오늘 금시세] 금 한돈 60만7,838원, 1년 최저가까지 375원…Fed 추가 금...",
-    "description": "◯ 달러 강세와 원화 강세가 동시에 나타난 이유 국제 금값 하락과 함께 국내 금시장에서 눈여겨볼 변수는 원·달러 환율이다. 삼성금거래소의 19일 오전 브리핑에 따르면 국제 금 현물가격은 3.26% 하락했고...",
-    "url": "https://www.topstarnews.net/news/articleView.html?idxno=16280419",
-    "publisher": "topstarnews.net",
+    "title": "[포토] 5000선 무너진 코스피, 분주한 딜링룸",
+    "description": "19일 대학수학능력시험으로 1시간 늦게 장을 시작한 코스피가 상승출발 이후 등락을 거듭하고 있는 가운데 서울 중구 하나은행 본점 딜링룸에 코스피와 코스닥, 원/달러 환율 등이 표시되고 있다.",
+    "url": "https://view.asiae.co.kr/article/2026111910333945674",
+    "publisher": "view.asiae.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "금시세(금값) 약세",
+    "description": "이날 원·달러 환율은 1천330.50원이다. 국내 금가격은 국제 금값과 환율의 영향을 함께 받는다. ■ 연준 회의록에 추가 긴축 우려…12월 빅스텝 가능성 확대 금가격 급락의...",
+    "url": "http://www.kjdaily.com/article.php?aid=1795051804692869227",
+    "publisher": "kjdaily.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "항공株, 유가·환율 안정에 주가 '高高'",
+    "description": "항공사들은 항공유 구매를 비롯해 항공기 리스료와 정비비 등을 달러로 지급하는 경우가 많아 원/달러 환율과 국제유가 변동에 민감하다. 원화 가치가 상승하면 달러 결제 비용과 외화부채 부담이 줄어들고...",
+    "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=731669",
+    "publisher": "the-biz.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "[오늘 금시세]美 긴축 우려에 금값 '와르르'…국내 금 3.46% ↓",
+    "description": "달러 강세 압력 속에 국제 금값이 온스당 3천800달러선을 밑돌며 기술적 매도세가 출회된 가운데 원·달러 환율까지 하락하면서 국내 금값도 3% 넘게 떨어졌다. 19일 삼성금거래소가 제시한 국내 금 환산...",
+    "url": "https://www.namdonews.com/news/articleView.html?idxno=929786",
+    "publisher": "namdonews.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "코스피·코스닥 '상승 출발', 원달러환율 '하락'",
+    "description": "코스피와 코스닥이 개장 직후 동반 상승 출발한 19일 오전 서울 중구 하나은행 본점 딜링룸 현황판에 코스피 지수와 코스닥 지수가 표시되고 있다. 대학수학능력시험일인 이날은 국내 증시 정규장이 평소보다...",
+    "url": "https://www.news1.kr/photos/8222367",
+    "publisher": "news1.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "美 증시 혼조세에…코스피 장초반 보합권에서 '오락가락'",
+    "description": "이 시각 현재 코스닥 시가총액 상위종목은 11위까지 약세다. 이오테크닉스가 4%대, 레인보우로보틱스가 3%대, 원익IPS와 에코프로가 2%대 각각 내리고 있다. 이날 오전 9시 기준 원/달러 환율은 1332.1원을 기록했다.",
+    "url": "https://www.mt.co.kr/stock/2026/11/19/2026111910232452883",
+    "publisher": "mt.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "[오늘의 증시] 11월 19일 코스피 5000선 턱걸이…코스닥도 1%대 하락",
+    "description": "미국 증시 흐름과 금리 전망, 원·달러 환율, 주요 기업의 실적 기대감 등은 국내 증시에 영향을 미치는 변수로 꼽힌다. 투자자들은 오후 장에서 외국인과 기관의 매매 방향이 달라지는지, 개인투자자의 매수세가...",
+    "url": "https://www.job-post.co.kr/news/articleView.html?idxno=239455",
+    "publisher": "job-post.co.kr",
     "pub_date": "2026-11-19"
    }
   ],
   "한국은행": [
+   {
+    "title": "우리은행, 소비자보호지수 은행권 우수기업 선정",
+    "description": "지난 18일 우리은행은 한국능률협회컨설팅(KMAC)이 주관한 2026년 '한국의 소비자보호지수(KCPI)' 평가에서 정진완(왼쪽) 우리은행장과 한수희 한국능률협회컨설팅 대표가 인증식에서 기념 촬영을 하고 있다. 사진...",
+    "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=326618",
+    "publisher": "pointdaily.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "김찬진·배준영, 한국은행 인천본부 방문, 이전 대체부지 제안",
+    "description": "제물포구와 배준영 국회의원이 18일 한국은행 인천본부를 찾아 인천항 내항 1·8부두 재개발 부지를 한국은행 인천본부의 이전 대체부지로 제안했다. 사진=제물포구  제물포구와 배준영 국회의원이 18일 한국은행...",
+    "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756838",
+    "publisher": "gukjenews.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "4대 은행 '깡통대출' 5조 돌파…기업 부실 급증",
+    "description": "한국은행에 따르면 올해 3분기 실질 국내총생산(GDP)은 전분기 대비 1.0% 성장했다. 반도체를 중심으로 수출과 설비투자가 증가하면서 경제 전체의 성장률을 끌어올린 결과다. 수출은 반도체와 기계·전기장비 등을...",
+    "url": "https://www.mstoday.co.kr/news/articleView.html?idxno=200516",
+    "publisher": "mstoday.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "'5000억 청구' 메디톡스, 항소심 선고 연기에 … 자금·美 진출 셈법 복...",
+    "description": "내년 1월30일 한국산업은행에서 빌린 290억원의 차입금 만기가 돌아온다. 7월에도 산업은행과 하나은행에서 빌린 546억원의 만기가 도래한다. 이런 상황에서 배상금 회수는 재무 부담을 덜어낼 기회가 될 수 있다....",
+    "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950048.html",
+    "publisher": "biz.newdaily.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "[함께가자 우리ESG] NH농협금융, '제2차 농협금융 ESG전략협의회' 실시....",
+    "description": "▲NH미소재단 설립 추진, ▲시중은행 최초로 한국산업안전보건공단과 업무협약을 통한 특화상품 출시 등 산업안전과 금융을 연계한 안전경영 지원, ▲사회적기업 물품구매 연계 선순환 기부, ▲크라우드펀딩을 통한...",
+    "url": "http://www.newslock.co.kr/news/articleView.html?idxno=140427",
+    "publisher": "newslock.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "우리은행, KMAC 소비자보호지수 은행 부문 우수기업 선정",
+    "description": "우리은행은 한국능률협회컨설팅(KMAC)이 주관한 2026년 ‘한국의 소비자보호지수(KCPI)’ 평가에서 은행 부문 금융소비자보호 우수기업으로 선정됐다고 19일 밝혔다. KCPI(Korean Consumer Protection Index)는 상품과...",
+    "url": "https://www.smarttoday.co.kr/ko-kr/articles/113867",
+    "publisher": "smarttoday.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "금융권, 연세대 의대 총동문회와 맞춤형 금융서비스 지원·'금융소비자...",
+    "description": "우리은행은 한국능률협회컨설팅이 주관한 2026 '한국 소비자보호지수' 평가에서 은행 부문 '금융소비자보호 우수기업'으로 선정됐다. '한국 소비자보호지수'는 상품과 서비스를 실제 이용한 고객을 대상으로 기업의...",
+    "url": "http://www.wsobi.com/news/articleView.html?idxno=322101",
+    "publisher": "wsobi.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "3분기 가계부채 증가폭 1년반 만에 최소…판매신용은 5조↑",
+    "description": "한국은행이 18일 발표한 '2026년 3/4분기 가계신용(잠정)'에 따르면 3분기 말 가계신용 잔액은 2030조5000억 원으로 전 분기 말(2020조8000억 원)보다 9조8000억 원 늘었다. 이는 작년 1분기(2조7000억 원) 이후 가장 작은...",
+    "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=268916",
+    "publisher": "whitepaper.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "우리은행, 소비자가 뽑은 금융소비자보호 우수기업 선정",
+    "description": "우리은행은 한국능률협회컨설팅(KMAC)이 주관하는 2026년 '한국의 소비자보호지수(KCPI)' 평가에서 은행 부문 금융소비자보호 우수기업으로 선정됐다고 19일 밝혔다. KCPI는 상품과 서비스를 실제 이용한 고객을 대상으로...",
+    "url": "https://www.redian.org/news/articleView.html?idxno=257689",
+    "publisher": "redian.org",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "우리은행, '2026 KCPI' 금융소비자보호 우수기업 선정",
+    "description": "우리은행이 한국능률협회컨설팅(KMAC)이 주관한 '2026 한국의 소비자보호지수(KCPI)' 평가에서 은행 부문 금융소비자보호 우수기업으로 선정됐다고 19일 밝혔다. KCPI는 실제 상품과 서비스를 이용한 고객의 평가를...",
+    "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=420949",
+    "publisher": "bizwork.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "한국씨티은행, 내년 성장률 전망 4.1%로 상향…AI 반도체 호황 지속 기대",
+    "description": "통화정책과 관련해서는 한국은행의 최종 기준금리 전망을 연 3.5%로 유지했다. 김 이코노미스트는 한국은행이 오는 26일 금융통화위원회에서 기준금리를 0.25%포인트 인상하고, 내년 2월에도 추가 인상에 나설 것으로...",
+    "url": "https://www.polinews.co.kr/news/articleView.html?idxno=748716",
+    "publisher": "polinews.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "'매파 금통위 예상되는데'…IRS에 녹아있는 금리 전망은 요지부동",
+    "description": "한국개발연구원(KDI)이 우리나라 내년 성장률 전망치를 4%에 육박하는 수준으로 끌어올리면서 한국은행의 내년 성장률 상향 조정 폭에도 경계감이 높아진 가운데 금리스와프(IRS)에 녹아있는 금리 전망은 크게 변화가...",
+    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445497",
+    "publisher": "news.einfomax.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "씨티은행, 내년 성장률 전망치 4.1%로 상향…\"반도체 호황 지속\"",
+    "description": "한국은행의 최종 기준금리 전망은 연 3.5%로 유지했다. 김 이코노미스트는 한은이 오는 26일 열리는 금융통화위원회에서 기준금리를 0.25%p 인상하고, 내년 2월 추가 인상에 나설 것으로 봤다.",
+    "url": "http://www.seouleconews.com/news/articleView.html?idxno=95114",
+    "publisher": "seouleconews.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "우리은행, 소비자보호 우수기업 선정...'2026 KCPI' 은행 부문 인증",
+    "description": "우리은행은 한국능률협회컨설팅(KMAC)이 주관한 '2026년 한국의 소비자보호지수(KCPI)' 평가에서 은행 부문 '금융소비자보호 우수기업'으로 선정됐다고 19일 밝혔다. KCPI는 상품과 서비스를 실제 이용한 고객을 대상으로...",
+    "url": "https://www.moneystorm.kr/news/articleView.html?idxno=8585",
+    "publisher": "moneystorm.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "우리은행, 소비자가 뽑은 금융소비자보호 우수기업 선정",
+    "description": "우리은행은 한국능률협회컨설팅(KMAC)이 주관한 2026년 '한국의 소비자보호지수(KCPI)' 평가에서 은행 부문 금융소비자보호 우수기업에 선정됐다고 19일 밝혔다. KCPI는 상품과 서비스를 실제 이용한 고객을 대상으로...",
+    "url": "https://thetracker.co.kr/View.aspx?No=4319895",
+    "publisher": "thetracker.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "우리은행, 소비자보호지수 은행 부문 '우수기업' 선정",
+    "description": "우리은행은 한국능률협회컨설팅(KMAC)이 주관한 '2026년 한국의 소비자보호지수(KCPI)' 평가에서 은행 부문 '금융소비자보호 우수기업'으로 선정됐다고 19일 밝혔다. KCPI는 상품과 서비스를 직접 이용한 고객을 대상으로...",
+    "url": "https://www.econovill.com/news/articleView.html?idxno=757774",
+    "publisher": "econovill.com",
+    "pub_date": "2026-11-19"
+   },
    {
     "title": "우리은행, 소비자가 직접 평가한 '금융소비자보호 우수기업' 선정",
     "description": "|중앙이코노미뉴스 문혜원 기자|지난 18일 우리은행은 한국능률협회컨설팅(KMAC)이 주관한 2026년 '한국의 소비자보호지수(KCPI)'평가에서 은행 부문 '금융소비자보호 우수기업\"으로 선정됐다. 정진완 우리은행장(왼쪽)과...",
@@ -317,121 +429,30 @@
     "url": "https://www.donga.com/news/Economy/article/all/20261119/135052552/1",
     "publisher": "donga.com",
     "pub_date": "2026-11-19"
-   },
-   {
-    "title": "[오늘의 원화] 달러-원 1,333.5원 출발…전 거래일 마감보다 0.5원 높게",
-    "description": "한국은행 경제통계시스템(ECOS)에 따르면 11월 19일 원·달러 환율 개장가는 1,333.5원으로, 전 거래일 종가보다 0.5원 올랐다. 직전 거래일인 11월 18일에는 오후 3시 30분 기준 1,333.0원에 마감했다....",
-    "url": "https://www.tokenpost.kr/news/insights/440480",
-    "publisher": "tokenpost.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "다야니·론스타 분쟁서 성과…국제중재 강자로 떠오른 피터앤김",
-    "description": "론스타는 외환은행 매각 과정에서 한국 정부의 조치로 손해를 입었다며 2012년 약 46억8000만달러의 배상을 청구했다. 2022년 국제투자분쟁해결센터(ICSID) 중재판정부는 한국 정부에 미화 2억1650만달러와 이자를...",
-    "url": "https://www.mk.co.kr/article/12212271",
-    "publisher": "mk.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "20년 만의 2년 연속 3%대 후반 고성장 전망에도…고용 시장은 '고령층·...",
-    "description": "한국은행 국민계정 통계상 올해 3분기(7~9월) 제조업 생산은 1년 전보다 7.0%나 확대됐지만, 같은 기간 제조업 취업자는 오히려 월평균 3만1000명 줄어들었다. 올해 제조업 취업자는 지난 5월 감소 폭이 14만명까지...",
-    "url": "https://www.widedaily.com/news/articleView.html?idxno=304098",
-    "publisher": "widedaily.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "명동 행사로 21일 남대문로 통제…상행 버스차로 일부 제한",
-    "description": "서울 중구 명동에서 열리는 명동스퀘어 미션페스타로 21일 한국은행 앞 사거리부터 을지로입구 사거리까지 남대문로 일대가 교통 통제 대상에 오른다. 무대 주변 남대문로 상행선 버스전용차로 1차로도 통제된다....",
-    "url": "https://www.vegannews.co.kr/news/article.html?no=407538",
-    "publisher": "vegannews.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "한국, 첨단 기술 이용한 시험 부정행위와의 전쟁",
-    "description": "은행연합회에 따르면, 한국 전역의 은행들은 영업시간을 한 시간 늦춰 오전 10시부터 오후 5시까지 영업하기로 했다. 다만, 유동적인 영업시간을 적용하는 일부 지점은 다른 시간을 따를 수 있다. 19일, 한국증시는...",
-    "url": "http://www.newstown.co.kr/news/articleView.html?idxno=722513",
-    "publisher": "newstown.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "[신윤우의 외환분석] 수능날 어떤 '선물' 받을까",
-    "description": "한국은행은 3분기 국제투자대조표를 공개한다. 달러-원은 이날 오전 7시 기준으로 전날 서울장 종가(1,333.00원) 대비 0.70원 오른 1,333.70원을 기록했다. 뉴욕 차액결제선물환(NDF) 시장에서 달러-원 1개월물은 1,331.90원(MID)...",
-    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445484",
-    "publisher": "news.einfomax.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "우리은행, 금융소비자보호 우수기업 선정",
-    "description": "우리은행은 한국능률협회컨설팅(KMAC)이 주관한 ‘2026년 한국의 소비자보호지수(KCPI)’ 평가에서 은행 부문 금융소비자보호 우수기업으로 선정됐다고 19일 밝혔다. KCPI는 상품과 서비스를 실제 이용한 고객을 대상으로...",
-    "url": "https://www.ddaily.co.kr/page/view/2026111909470910926",
-    "publisher": "ddaily.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "예보, 예금토큰 보호체계 점검 착수…'디지털 예금' 제도권 편입 신호탄",
-    "description": "한국은행의 기술 실험으로 출발한 예금토큰이 예금보험 제도 안으로 들어오면서, 은행이 발행하는 디지털 예금을 어떻게 보호할지가 상용화의 전제 조건으로 떠올랐다. 금융권에 따르면 예보는 최근 예금토큰 업무와...",
-    "url": "https://www.etnews.com/20261119000072",
-    "publisher": "etnews.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "'CIO 사관학교' 다크호스로 급부상한 한화금융 OB들 [fn마켓워치]",
-    "description": "한국은행과 IMF 서울사무소, 삼성생명 등을 거친 차 CFO는 한화운용에서 글로벌채권본부장과 유가증권부문장을 맡았다. 한화운용 출신의 KIC 진출은 이번이 처음도 아니다. 강신우 전 한화자산운용 대표는 2016년 KIC CIO에...",
-    "url": "https://www.fnnews.com/news/202611182006258573",
-    "publisher": "fnnews.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "[금융家] 광주은행 ⑩ㅣ 창립 58주년 맞아 지역 상생 강화…문화예술·...",
-    "description": "● 2026-11-11 광주은행, NCSI 지방은행 서비스업 1위…고객 만족도 선정 광주은행, 국가고객만족도 지방은행 서비스업 부문 1위 선정 (사진=연합뉴스) 광주은행이 한국생산성본부가 주관한 국가고객만족도(NCSI) 조사에서...",
-    "url": "https://www.cbci.co.kr/news/articleView.html?idxno=628554",
-    "publisher": "cbci.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "[주거실태조사] 수도권 신혼부부 월세 1년 새 24% 급등…평균 60만원 돌...",
-    "description": "같은 달 한국은행이 발표한 예금은행 신규취급액 기준 저축성수신금리가 연 2.52%에 그친 점을 고려하면, 임대인 입장에서는 보증금을 받아 은행에 예치하는 것보다 월세를 증액하는 것이 유리한 구조다. 여기에...",
-    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445472",
-    "publisher": "news.einfomax.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "[주거실태조사] 가팔라진 집값 사다리…수도권 저소득층 PIR 19.5년",
-    "description": "한국은행은 올해 초 '지역 간 인구이동과 세대 간 경제력 대물림' 보고서에서 부모 세대의 자산(특히 부동산)과 거주 지역이 자녀 세대의 경제적 지위를 결정짓는 대물림 현상이 최근 세대로 올수록 더욱 강해졌다고...",
-    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445473",
-    "publisher": "news.einfomax.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "우리은행, 소비자보호 체계 강화…고객 평가서 우수기업 선정",
-    "description": "우리은행은 한국능률협회컨설팅(KMAC)이 주관한 '2026년 한국의 소비자보호지수(KCPI)' 평가에서 은행 부문 금융소비자보호 우수기업으로 선정됐다고 19일 밝혔다. KCPI는 상품과 서비스를 실제 이용한 고객의 평가를...",
-    "url": "http://www.kdfnews.com/news/articleView.html?idxno=191130",
-    "publisher": "kdfnews.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "우리은행, 소비자가 직접 평가한 ‘금융소비자보호 우수기업’ 선정",
-    "description": "우리은행은 한국능률협회컨설팅(KMAC)이 주관한 ‘2026년 한국의 소비자보호지수(KCPI)’ 평가에서 은행 부문 ‘금융소비자보호 우수기업’으로 선정됐다고 19일 밝혔다. KCPI는 실제 상품과 서비스를 이용한 고객들의...",
-    "url": "https://biz.heraldcorp.com/article/10942260?ref=naver",
-    "publisher": "biz.heraldcorp.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "우리은행, 고객이 평가한 '금융소비자보호 우수기업' 선정",
-    "description": "우리은행은 한국능률협회컨설팅(KMAC)이 주관한 2026년 '한국의 소비자보호지수(KCPI)' 평가에서 은행 부문 '금융소비자보호 우수기업'으로 선정됐다고 19일 밝혔다. KCPI는 상품과 서비스를 이용한 고객을 대상으로 기업의...",
-    "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=305379",
-    "publisher": "newsquest.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "증권사 CMA 100조원 회복…입출금 자유에 연 3%까지",
-    "description": "한국은행은 지난 7월과 8월 기준금리를 0.25%p씩 인상해 연 2.50%에서 3.00%로 인상한 뒤 10월 동결한 바 있다. 오는 26일에는 올해 마지막 통화정책방향 결정회의를 연다. 금융투자협회에 따르면 전일(17일) 개인·법인...",
-    "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=268923",
-    "publisher": "whitepaper.co.kr",
-    "pub_date": "2026-11-19"
    }
   ],
   "기획재정부": [
+   {
+    "title": "서울 중구, 전국 첫 민자 동주민센터 '회현동 행정복합타운' 추진",
+    "description": "중구는 지난해 기획재정부 심의를 통해 동주민센터와 자치회관을 민간투자법상 민간투자사업 대상시설로 지정받은 뒤, 행정안전부 타당성 조사와 서울시의 사전 검토를 마쳤다. 이어 지난 8월부터는 민간제안서에...",
+    "url": "https://www.dailian.co.kr/news/view/1717125/?sc=Naver",
+    "publisher": "dailian.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "서울 중구, '회현동 행정복합타운' 건립 추진…2030년 하반기 준공 목표",
+    "description": "구는 2016년부터 다양한 사업 방식을 검토했으며, 2023년 기획재정부 심의를 거쳐 전국 최초로 동주민센터와 자치회관을 민간투자법상 민간투자사업 대상시설로 인정받았다. 이를 통해 기존 공공청사 건립 방식에서...",
+    "url": "https://www.job-post.co.kr/news/articleView.html?idxno=239458",
+    "publisher": "job-post.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "서울 중구, 회현동 행정복합타운 건립 순항…2030년 준공 목표 설정",
+    "description": "그 결과 2023년 당시 기획재정부 심의를 통해 전국 첫 동주민센터와 자치회관을 '민간투자법'상 민간투자사업 대상시설로 인정받으며 민간투자를 유치할 수 있는 길을 열었다. 이후 구는 사업 추진에 필요한 절차를...",
+    "url": "https://www.newspim.com/news/view/20261119000434",
+    "publisher": "newspim.com",
+    "pub_date": "2026-11-19"
+   },
    {
     "title": "차량기지 이전·철도망 확충 연계…생활 현안 해법 찾는 양천구",
     "description": "그러나 기획재정부 예비타당성조사에서 경제성을 충분히 확보하지 못했고, 양천구는 주거지역 중심의 이동수요에 인근 업무지역의 통근수요를 더하는 방향으로 대안을 찾았다. 마곡과 구로·가산디지털단지 등 주변...",
@@ -550,30 +571,128 @@
     "url": "https://www.idaegu.com/news/articleView.html?idxno=667119",
     "publisher": "idaegu.com",
     "pub_date": "2026-11-18"
-   },
-   {
-    "title": "육동한 시장, 임기근 국무조정실장과 춘천 미래 위한 협력 논의",
-    "description": "육 시장과 임 실장은 기획재정부에서 경제·재정정책 분야에서 쌓아온 경험과 신뢰를 바탕으로 오랜 인연을 이어온 선후배 사이다. 육동한 시장은 “시민의 생명을 지키는 일부터 도시의 미래를 준비하는 일까지...",
-    "url": "https://www.kwnews.co.kr/article/20261118501259",
-    "publisher": "kwnews.co.kr",
-    "pub_date": "2026-11-18"
-   },
-   {
-    "title": "김철주 생보협회장 연임 기로...대항마에 民출신 김성한·전영묵",
-    "description": "김 회장은 기획재정부 출신 관료로 2023년 12월 취임했다. 당시 생보업계의 저성장과 시장 포화에 대응하고 금융당국과의 정책 조율을 이끌 적임자라는 기대를 받았다. 김 회장은 임기 중 신회계제도(IFRS17)와...",
-    "url": "https://www.bloter.net/news/articleView.html?idxno=679029",
-    "publisher": "bloter.net",
-    "pub_date": "2026-11-18"
-   },
-   {
-    "title": "육동한 춘천시장, 국무조정실장 만나 지역 현안 지원 요청",
-    "description": "육 시장과 임 실장은 기획재정부에서 경제·재정정책 분야의 경험을 쌓으며 오랜 인연을 이어온 선후배 사이로 알려졌다. 시는 앞으로도 중앙정부 및 관계부처와 협의를 이어가며 자살예방 정책의 실효성을 높이고, 지역...",
-    "url": "https://www.news1.kr/local/kangwon/6358511",
-    "publisher": "news1.kr",
-    "pub_date": "2026-11-18"
    }
   ],
   "반도체 수출": [
+   {
+    "title": "미중, 무역휴전 연장·희토류-AI 합의할까…'관계안정 쇼' 전망 우세",
+    "description": "미국은 중국에 희토류 등 핵심광물 수출과 미국 농산물 수입을 실질적으로 확대할 것을 압박해왔고, 중국은 미국이 대중 인공지능(AI) 반도체 수출 규제를 완화할 것을 요구해왔으나 별다른 이행 조짐은 없다....",
+    "url": "https://www.newsis.com/view/NISX20261119_0003874326",
+    "publisher": "newsis.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "4대 은행 '깡통대출' 5조 돌파…기업 부실 급증",
+    "description": "반도체 수출 호조로 국내 경제가 성장세를 이어가고 있지만 철강과 석유화학 등 전통 제조업과 중소기업의 자금 사정은 좀처럼 개선되지 않으면서 은행권 부실채권이 빠르게 늘고 있다. 대출 손실에 대비해 쌓아둔...",
+    "url": "https://www.mstoday.co.kr/news/articleView.html?idxno=200516",
+    "publisher": "mstoday.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "美, 동남아 데이터센터 첨단칩 구매 허가제 도입…중국 AI 우회로 막는다",
+    "description": "이번 규제는 단순한 반도체 수출 통제를 넘어 동남아 데이터센터가 중국 기업에 컴퓨팅 자원을 제공하는 우회 통로로 활용되는 구조를 겨냥한 것으로 해석된다. 이미 대형 중국 고객을 확보한 데이터센터는 90일 이내에...",
+    "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716615",
+    "publisher": "digitaltoday.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "'젠슨 황 공백'에 연준 매파까지 … 수능날 '코스피' 상승 출발 후 하락...",
+    "description": "반도체 투톱인 삼성전자는 전일 대비 0.92% 내린 19만2700원에 거래되고 있다. SK하이닉스는 0.17% 내린... 젠슨 황 최고경영자(CEO) 사임에 따른 경영 공백에 인공지능(AI) 투자비 부담과 대중국 수출 규제 등이 겹치며...",
+    "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950085.html",
+    "publisher": "biz.newdaily.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "트럼프 \"시진핑과 젠슨 황 문제 아주 짧게 언급…비극적인 일\"",
+    "description": "이는 엔비디아의 첨단 AI 반도체 대중국 수출 규제 등 황 전 CEO를 둘러싼 문제가 시 주석과의 대화에서 주요 의제로 다뤄지지는 않았다는 의미로 해석된다. 앞서 미국 당국자들은 트럼프 대통령이 시 주석과의 회담에서...",
+    "url": "https://www.news1.kr/world/usa-canada/6359212",
+    "publisher": "news1.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "KDI, 내년 성장률 3.9% 상향…반도체·AI가 견인차 역할",
+    "description": "반도체를 필두로 한 수출 호조가 설비투자로 이어지며 거시경제 지표 전반을 끌어올리는 양상이다. 한국개발연구원(KDI)은 11월 18일 발표한 '2026년 하반기 경제전망'을 통해 올해 경제성장률을 3.8%, 내년은 이보다 높은...",
+    "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281661",
+    "publisher": "businesskorea.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "젠슨 황 없는 엔비디아…삼성·SK하이닉스도 시험대",
+    "description": "황 전 CEO 복귀 무산…엔비디아 경영 불확실성 HBM 공급 영향 제한…차세대 개발 전략 주목 美 대중국 규제 강화…K반도체 수출 변수 부상 [아시아타임즈=박요돈 기자] 젠슨 황 전 최고경영자(CEO)의 사퇴로 엔비디아가...",
+    "url": "https://www.asiatime.co.kr/article/20261119500125",
+    "publisher": "asiatime.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "\"美 반도체 규제에 中 AI 개발 지연\"…텐센트의 경고",
+    "description": "미국이 관련 반도체의 수출·이전 등에 새로운 허가 요건을 도입하면서 동남아를 통한 AI 반도체의 중국 밀반입도 어려워질 전망이다. 류 사장은 다만 이번 조치가 장기적으로 중국 내 반도체 공급망 개발을 앞당기는...",
+    "url": "https://www.ajunews.com/view/20261119102124404",
+    "publisher": "ajunews.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "호암 이병철 39주기, ‘사업보국’ 창업주의 유산",
+    "description": "대구 삼성상회에서 시작된 사업 호암은 1938년 대구에서 청과물과 건어물을 수출하는 ‘삼성상회’를... 전자·중공업, 그리고 반도체 결단 호암은 1969년 삼성전자, 1974년 삼성중공업을 세웠다. 삼성은 같은 해...",
+    "url": "https://www.globalepic.co.kr/view.php?ud=20261119101604157048439a4874_29",
+    "publisher": "globalepic.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "한국씨티은행, 내년 성장률 전망 4.1%로 상향…AI 반도체 호황 지속 기대",
+    "description": "한국씨티은행이 인공지능(AI) 산업 성장에 따른 반도체 수출 확대를 근거로 내년 한국 경제성장률 전망치를 4.1%로 높였다. 다만 반도체 중심의 성장세와 달리 가계부채와 주거비 부담 등으로 민간 소비 회복은 제한적일...",
+    "url": "https://www.polinews.co.kr/news/articleView.html?idxno=748716",
+    "publisher": "polinews.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "\"가용 재원 3조원 중 2조원이 빚과 유예분\"… 경기도 재정 비상 100일, 진...",
+    "description": "그런 상황에서 이 반도체는 무조건 항공으로만 수출을 하기 때문에, 추가적인 민간 국제 공항이 필요하다라는 거는 기본이고, 또 도민들의 공항 이용이라는 측면에서도 시간 거리 측면에서도 그 필요성을 저희도...",
+    "url": "https://news.ifm.kr/news/articleView.html?idxno=484868",
+    "publisher": "news.ifm.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "JP모건·씨티, 엔비디아 스캔들 업체에 자금 지원 논란",
+    "description": "미국 상무부가 인공지능(AI) 반도체 수출 통제 관련 규정을 발표하면서 싱가포르, 말레이시아, 태국 등 성장하는 데이터센터 시장에 대한 규제가 확대될 수 있다. JP모건과 씨티은행 등은 미국의 수출 통제 규정을 위반할...",
+    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445496",
+    "publisher": "news.einfomax.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "\"인천, 바이오·반도체 성장 기회 놓쳐선 안 돼\"",
+    "description": "공무원과 기업인 사이에서 연결고리 역할을 하면서 기업이 성장하고 매출과 수출을 늘리는 데 도움을 주는... 반도체와 방산, 조선 등 일부 산업을 제외하면 상당수 업종이 어려움을 겪고 있고, 인천의 자동차 부품업계 역시...",
+    "url": "http://www.incheonin.com/news/articleView.html?idxno=122379",
+    "publisher": "incheonin.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "씨티은행, 내년 성장률 전망치 4.1%로 상향…\"반도체 호황 지속\"",
+    "description": "한국의 반도체 수출은 올해 203% 증가한 데 이어 2027년에도 38% 늘어날 것으로 전망했다. IT 제조업의 명목 GDP 부가가치 비중은 2025년 9%에서 올해 상반기 20%로 높아졌고, 올해 연간 25%, 2027년에는 31%까지 상승할 것으로...",
+    "url": "http://www.seouleconews.com/news/articleView.html?idxno=95114",
+    "publisher": "seouleconews.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "WGBI 편입 끝나자 外人 국고채 순매도…환율 하방 동력 약해지나",
+    "description": "시장 참가자들은 WGBI 편입 종료 이후 연말 환율의 방향을 결정할 변수로 수출업체 네고 물량과 국내... 기관투자자들은 대형 기술기업의 실적과 향후 전망에 대한 재평가 과정에서 반도체를 중심으로 한국과 대만...",
+    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445495",
+    "publisher": "news.einfomax.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "베네투스, 원료 전문성 바탕으로 스킨 롱제비티 시장 도전 [2026 K라이프...",
+    "description": "이번 시상에서 뷰티 부문 본상을 수상한 제이코모는 화장품 원료와 반도체 부품 사업을 운영해 온 모회사의... 베네투스는 2023년 베트남과 일본 수출을 시작으로 해외 사업 경험을 쌓았으며, 2026년에는 미국과 캐나다...",
+    "url": "https://www.meconomynews.com/news/articleView.html?idxno=203700",
+    "publisher": "meconomynews.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "미·중·러 오늘 사상 첫 정상회담…한반도 문제도 테이블 오를까",
+    "description": "양국 정상은 관세 갈등과 희토류 수출 통제, 첨단 반도체 규제 등 경제·통상 현안을 논의할 예정이다. 중국이 미·중 관계의 ‘레드라인’으로 규정해 온 대만 문제, 최근 불거진 젠슨 황 스캔들 등이 양국 정상 간 논의의...",
+    "url": "https://www.joongang.co.kr/article/25480060",
+    "publisher": "joongang.co.kr",
+    "pub_date": "2026-11-19"
+   },
    {
     "title": "트럼프·푸틴·시진핑 오늘 중국서 3자 회담…별도 미러 정상회담도 추...",
     "description": "미국과 중국은 관세, 희토류 수출통제, 첨단 인공지능 반도체 규제 등을 놓고 경쟁하고 있다. 러시아는 우크라이나 전쟁과 서방의 경제 제재 문제에서 자국의 입장을 반영하려 하고 있다. 한국으로서는 3국 정상회담에서...",
@@ -594,133 +713,77 @@
     "url": "https://www.kukinews.com/article/view/kuk202611190037",
     "publisher": "kukinews.com",
     "pub_date": "2026-11-19"
-   },
-   {
-    "title": "\"AI 규제, 메모리 수요 못 꺾는다⋯삼전·SK하닉 최선호\"",
-    "description": "이 연구원은 \"중국은 최첨단 가속기와 고대역폭메모리(HBM) 등 미국 정부의 수출 규제 영향을 받는 제품에... 반도체주를 둘러싼 불확실성은 내년 초부터 완화될 것으로 전망했다. 중간선거 이후 메모리 업체들의 주가...",
-    "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=82579",
-    "publisher": "newsfc.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "반도체 공장서 장비·소재로…KDI가 짚은 내년 산업 회복 경로",
-    "description": "글로벌 인공지능(AI) 인프라 투자 확대에 따른 반도체 호황이 수출과 설비투자를 이끌 것이라는 판단입니다. 올해 성장률은 3.8%로 예상했습니다. KDI는 지난 18일 발표한 '2026년 하반기 경제전망'과 브리핑에서 내년에도...",
-    "url": "https://www.inthenews.co.kr/news/article.html?no=94724",
-    "publisher": "inthenews.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "사상 첫 '미·중·러 3자 정상회담' 개막…코스피 향방 가를 분수령",
-    "description": "미중 양자 회담에서는 관세 장벽과 희토류, 반도체 수출규제 등 통상 현안이 집중 논의되며, 뒤이은 미중러 3자 회담에서는 우크라이나 전쟁 종식과 핵 군축, 이란 정세 등 글로벌 안보 현안이 핵심 안건으로 다뤄질...",
-    "url": "https://www.widedaily.com/news/articleView.html?idxno=304100",
-    "publisher": "widedaily.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "미중러 정상 오늘 사상 첫 3자회담…세계질서 중대 분수령",
-    "description": "트럼프 대통령과 시 주석은 지난 9월 미국 워싱턴 회담 이후 약 두 달 만에 다시 만나 관세 갈등, 희토류 수출통제, 첨단 반도체 규제 등 양국 현안을 논의할 예정이다. 양국이 기존 무역휴전의 이행 상황을 점검하고...",
-    "url": "https://www.konas.net/article/article.asp?idx=64799",
-    "publisher": "konas.net",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "[증시타임] APEC 미중러 정상외교, 글로벌 경제질서 재편과 한국 경제의...",
-    "description": "- 미중 AI 패권 경쟁, 기술력과 규제 정책이 핵심 - 미국, 첨단 반도체·소프트웨어 기술 우위 확보 - 중국, 희토류 공급망과 내수시장 영향력 보유 - 미국의 반도체 수출통제, 중국 AI 산업 압박 - 중국의 희토류 수출통제...",
-    "url": "https://biz.sbs.co.kr/article_hub/20000347472?division=NAVER",
-    "publisher": "biz.sbs.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "KDI, 내년 성장률 전망 2.2%→3.9%…반도체 호황 반영",
-    "description": "성장의 핵심 동력은 반도체다. 내년 총수출과 설비투자는 각각 8.1% 늘고, 취업자 증가 폭은 올해 12만 명에서 20만 명으로 커질 것으로 전망했다. KDI는 미국의 AI 데이터센터 건설이 지연되거나 글로벌 AI 인프라...",
-    "url": "https://www.sedaily.com/article/20116291?ref=naver",
-    "publisher": "sedaily.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "트럼프 \"젠슨 황 대체 불가능한 인물…중국 스파이 의혹 못듣어\"",
-    "description": "트럼프 대통령은 미국의 첨단 AI 반도체 수출 문제와 관련해서도 향후 2~3년 뒤에는 엔비디아의 블랙웰 반도체를 중국에 판매할 가능성이 있다고 언급했다. 미국 정부가 첨단 반도체의 중국 수출을 국가안보 차원에서...",
-    "url": "http://www.4th.kr/news/articleView.html?idxno=2122192",
-    "publisher": "4th.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "美 12월 금리 인상 확률 95.7%…연준은 빅스텝 신중론",
-    "description": "인공지능(AI) 투자에 따른 반도체 수출 호황이 내년에도 이어질 것으로 봤기 때문이다. 내년 총수출과 설비투자는 각각 8.1% 늘 것으로 전망했다. 다만 KDI는 반도체 의존도가 높아진 점을 위험 요인으로 꼽았다....",
-    "url": "https://www.sedaily.com/article/20116288?ref=naver",
-    "publisher": "sedaily.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "이병철 삼성 창업회장 39년 추도식···삼성·CJ·신세계로 이어진 호암...",
-    "description": "삼성그룹의 출발점인 무역업에서 식품과 섬유, 전자, 중공업을 거쳐 반도체까지 사업 영역을 확장한 그의... 1938년 대구에서 청과물과 건어물 수출을 목적으로 설립한 삼성상회가 출발점이다. 당시 자본과 산업 기반이...",
-    "url": "https://www.smartbizn.com/news/articleView.html?idxno=159923",
-    "publisher": "smartbizn.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "미국 중국 정상회담 또 '관세 휴전 연장'에 그치나, 트럼프 정치적 입지...",
-    "description": "미국과 중국은 각각 첨단 AI 반도체 수출 규제와 희토류 공급망 통제를 상대 국가에 주요 협상카드로 활용하고 있다. 중국은 현재 반도체와 자동차, 군사무기 등에 활용되는 여러 종류의 희토류를 수출 통제 대상에...",
-    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452362",
-    "publisher": "businesspost.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "역대급 실적 찍은 엔비디아…‘거품 논란’ 순환금융 손본다",
-    "description": "내년 수출과 설비투자는 각각 8.1% 증가가 예상되고, 취업자 수 증가 폭도 12만 명에서 20만 명으로 확대될 전망이다. 반도체 1%포인트 성장 변화가 전체 성장률을 0.2~0.3%포인트 흔들 수 있는 만큼, 삼성전자...",
-    "url": "https://www.sedaily.com/article/20116283?ref=naver",
-    "publisher": "sedaily.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "KB증권 \"중국의 AI 인프라 투자, 미국 수요 둔화 상쇄할 것\"",
-    "description": "KB증권은 \"중국의 독자적인 인공지능(AI) 인프라 투자가 미국의 반도체 수요 둔화를 상쇄할 완충판이 될 것... 또한 이 연구원은 \"젠슨 황 스캔들 이후 미국 정부가 공개한 '해외 첨단 연산자원 접근 규제'(우회 수출 금지 및...",
-    "url": "https://biz.sbs.co.kr/article_hub/20000347494?division=NAVER",
-    "publisher": "biz.sbs.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "한중 FTA 후속 협상 8년 만에 타결…한한령 해제 기대",
-    "description": "수출 증가분의 73.8%는 메모리반도체에 집중됐다. 반도체 호황이 지역 제조업 생산은 끌어올렸지만 내수 소비로는 이어지지 못하는 모습이다. 내수 의존도가 높은 소비재·유통·서비스 기업 경영진은 지역별 소비...",
-    "url": "https://www.sedaily.com/article/20116280?ref=naver",
-    "publisher": "sedaily.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "쌍용전력, 베트남 생산거점 일부 국내 복귀…부산 미음산단에 100억 투자",
-    "description": "신규 일자리 30개를 창출하고 반도체 등 첨단산업의 전력설비 수요에도 대응할 계획이다.... 경남지역 수출기업들이 대응 전략 마련에 나섰다. 기계·자동차부품 등 지역 주력산업의 대미 수출 불확실성이 커지는 가운데...",
-    "url": "https://www.kukinews.com/article/view/kuk202611190033",
-    "publisher": "kukinews.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "美수출규제 맞은 中 AI 업계…텐센트·바이트댄스 직격탄",
-    "description": "미국이 대중(對中) 첨단 반도체 수출 통제를 강화한 지 이틀여 만에 중국 인공지능(AI) 업계의 타격이 현실화했다. 바이트댄스의 6400억원 규모 엔비디아 반도체 구매 대출에 제동이 걸린 데 이어, 텐센트홀딩스가 AI 모델...",
-    "url": "https://view.asiae.co.kr/article/2026111909295334946",
-    "publisher": "view.asiae.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "엔비디아, 중국 AI 반도체 수출 전격 중단…미국 허가에도 공급 차질",
-    "description": "조정을 넘어 미·중 기술 경쟁의 복잡한 현실을 보여주는 사례가 되고 있다. 향후 중국 당국의 수입 승인 여부와 미국의 반도체 수출 정책, 엔비디아의 공급 재개 결정이 글로벌 AI 산업의 주요 관전 요소로 떠오를 전망이다.",
-    "url": "https://www.jemin.com/news/articleView.html?idxno=847674",
-    "publisher": "jemin.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "금융지주 \"연말 코스피 본격 반등 어렵다…환율은 1,300원대 초반 하락...",
-    "description": "국내 실물경제에 대해서는 외형적 수출 호황과 내수 체감경기 간의 양극화가 지속될 것으로 진단됐다. 신한금융은 \"반도체 호황에 따른 소득 증가가 고소득층에 편중되고 높은 물가와 이자 부담이 구매력을 제약하면서...",
-    "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=399094",
-    "publisher": "fntoday.co.kr",
-    "pub_date": "2026-11-19"
    }
   ],
   "금융위원회": [
    {
-    "title": "\"코스피 역대급 낙폭에 바닥론 확산\"... 증권가 \"AI주 중심 반등 가능성...",
-    "description": "김대준 한국투자증권 연구원은 \"앤트로픽 상장과 미·중·러 3자 회담, 11월 금융통화위원회, 12월 연방공개시장위원회(FOMC) 등 주요 이벤트가 지나간 이후에야 시장 자금이 본격적으로 움직일 가능성이 크다\"고...",
-    "url": "http://www.queen.co.kr/news/articleView.html?idxno=466578",
-    "publisher": "queen.co.kr",
+    "title": "'리딩금융' 격차 벌린 KB…양종희號 3년 임기 마무리",
+    "description": "금융위원회가 홍콩 H지수 주가연계증권(ELS) 불완전판매와 관련해 부과한 확정 과징금 중 국민은행은 1723억원으로 가장 큰 규모다. 국민은행은 지난달 해킹 사고에 따른 개인정보 유출 인원이 기존 119명에서...",
+    "url": "https://www.newsis.com/view/NISX20261119_0003874647",
+    "publisher": "newsis.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "KB증권, 발행어음 자금 20억원 지역 관광 AI 펀드에 출자",
+    "description": "금융위원회에 따르면 공급 의무액은 발행어음·종합투자계좌(IMA) 조달액을 기준으로 정하고, 공급 실적은 회사 전체 운용자산에서 산정한다. 의무비율은 올해 조달액의 10%에서 내년 20%, 2028년 25%로 높아진다. 올해...",
+    "url": "http://www.4th.kr/news/articleView.html?idxno=2122194",
+    "publisher": "4th.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "[이슈+]애플페이 수수료 청구서, 소비자와 소상공인이 떠안나",
+    "description": "◇약관 안 바꿔도 줄어드는 혜택…애플페이 안 써도 부담 금융위원회는 2023년 애플페이 서비스를 허용하면서 카드사가 애플페이 관련 수수료 등의 비용을 고객이나 가맹점에 부담시키지 않아야 한다고 명시했다. 문제는...",
+    "url": "https://www.businessplus.kr/news/articleView.html?idxno=120123",
+    "publisher": "businessplus.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "최현덕 남양주시장, 총리에 주거모델 개선과 광역철도 확충 건의",
+    "description": "이날 간담회는 주택공급 정책과 지역별 현안을 논의하기 위해 마련됐으며 한 총리와 김이탁 국토교통부 차관, 신진창 금융위원회 부위원장, 경기도권 지자체장 등이 참석했다. 최 시장은 왕숙신도시 등 대규모 주택공급이...",
+    "url": "https://www.m-i.kr/news/articleView.html?idxno=2020669",
+    "publisher": "m-i.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "최현덕 남양주시장, 왕숙신도시 교통·주거·문화 기반 확충…국무총리...",
+    "description": "이날 간담회에는 한 총리를 비롯해 김이탁 국토교통부 차관, 신진창 금융위원회 부위원장과 경기도권 지방자치단체장 등이 참석해 주택공급 정책과 지역별 현안에 대한 의견을 나눴다. 최 시장은 남양주에서...",
+    "url": "http://www.fieldnews.kr/news/articleView.html?idxno=33212",
+    "publisher": "fieldnews.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "초고속매매 과다호가에 수수료 의무화 추진…주식·대체거래소까지 규...",
+    "description": "거래소에는 수수료 수입의 별도 회계처리와 부과·징수 현황 공시, 금융위원회 및 국회 보고 의무도 부여된다. 이번 법안은 최근 급증한 HFT 거래에 대응하기 위한 후속 입법이다. 김 의원에 따르면 삼성전자와...",
+    "url": "http://www.joseilbo.com/news/news_read.php?uid=579980&class=53&grp=",
+    "publisher": "joseilbo.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "한국씨티은행, 내년 성장률 전망 4.1%로 상향…AI 반도체 호황 지속 기대",
+    "description": "김 이코노미스트는 한국은행이 오는 26일 금융통화위원회에서 기준금리를 0.25%포인트 인상하고, 내년 2월에도 추가 인상에 나설 것으로 예상했다. 이는 한국씨티은행의 자체 전망으로, 실제 기준금리 결정은 물가와...",
+    "url": "https://www.polinews.co.kr/news/articleView.html?idxno=748716",
+    "publisher": "polinews.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "'매파 금통위 예상되는데'…IRS에 녹아있는 금리 전망은 요지부동",
+    "description": "다음주에 열릴 11월 금융통화위원회에서 금리를 인상할 것이라는 시각이 우세한 만큼, 내년 상반기에는 한 차례만 더 금리 인상이 이뤄질 것이라는 뷰가 녹아있는 셈이다. 이같은 인식은 전일 KDI가 하반기 경제전망을...",
+    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445497",
+    "publisher": "news.einfomax.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "씨티은행, 내년 성장률 전망치 4.1%로 상향…\"반도체 호황 지속\"",
+    "description": "한국은행의 최종 기준금리 전망은 연 3.5%로 유지했다. 김 이코노미스트는 한은이 오는 26일 열리는 금융통화위원회에서 기준금리를 0.25%p 인상하고, 내년 2월 추가 인상에 나설 것으로 봤다.",
+    "url": "http://www.seouleconews.com/news/articleView.html?idxno=95114",
+    "publisher": "seouleconews.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "[인터뷰] 이화여대 채상미 교수 \"AI가 대출 거절해도 이유 모르면 위험...",
+    "description": "이화여자대학교 경영대학 부학장을 역임했으며 국토교통부 정책자문위원, 자율주행차 시범운행지구 관련 위원회, 금융위원회 디지털혁신 관련 위원회 등에서 정책 자문 활동을 수행해 왔다. 채상미 교수는 학술 연구와...",
+    "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=315726",
+    "publisher": "straightnews.co.kr",
     "pub_date": "2026-11-19"
    },
    {
@@ -728,6 +791,13 @@
     "description": "지난해 6월 금융위원회가 비영리법인의 디지털자산 기부를 허용하면서 제도적 기반이 마련된 가운데 이번 토론회는 디지털자산 기부 현장에서 필요한 내부통제와 회계·세무 및 법률 기준, 운영 절차를 구체화하기...",
     "url": "https://www.tokenpost.kr/news/blockchain/440478",
     "publisher": "tokenpost.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "\"코스피 역대급 낙폭에 바닥론 확산\"... 증권가 \"AI주 중심 반등 가능성...",
+    "description": "김대준 한국투자증권 연구원은 \"앤트로픽 상장과 미·중·러 3자 회담, 11월 금융통화위원회, 12월 연방공개시장위원회(FOMC) 등 주요 이벤트가 지나간 이후에야 시장 자금이 본격적으로 움직일 가능성이 크다\"고...",
+    "url": "http://www.queen.co.kr/news/articleView.html?idxno=466578",
+    "publisher": "queen.co.kr",
     "pub_date": "2026-11-19"
    },
    {
@@ -773,13 +843,6 @@
     "pub_date": "2026-11-19"
    },
    {
-    "title": "성과급 환수·회장 연임 문턱 높인다…금융권 '법률 리스크' 확대",
-    "description": "19일 금융권에 따르면 금융위원회와 금융감독원은 지난 12일 발표한 '금융회사 지배구조 개선방안'에 고의·중과실로 회사에 손실을 입히거나 성과보수 산정의 근거가 된 재무제표가 정정될 경우 이미 지급한 성과급을...",
-    "url": "https://www.cstimes.com/news/articleView.html?idxno=728551",
-    "publisher": "cstimes.com",
-    "pub_date": "2026-11-19"
-   },
-   {
     "title": "우리은행, 소비자보호지수 우수기업 선정…고객 신뢰 강화",
     "description": "금융위원회는 지난 6월 시행한 금융분야 AI 가이드라인에서 위험관리 책임과 데이터 신뢰성, 소비자 보호, 보안성 등을 핵심 원칙으로 제시했다. AI가 업무를 지원하더라도 최종 의사결정과 책임은 임직원이 맡도록...",
     "url": "https://www.mediaus.co.kr/news/articleView.html?idxno=319080",
@@ -787,77 +850,77 @@
     "pub_date": "2026-11-19"
    },
    {
-    "title": "카카오뱅크까지 합류한 애플페이…수수료 부담, 소비자 혜택 축소로 이...",
-    "description": "2023년 10월 11일 국회 정무위원회의 금융위원회 국정감사에는 김덕환 당시 현대카드 대표와 마크 리 당시 애플코리아 영업총괄사장이 증인으로 출석했다. 당시 윤창현 국민의힘 의원은 높은 수수료를 부담하면서...",
-    "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=211628",
-    "publisher": "lcnews.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "4대 금융 회장 뽑은 이사회 의장 대거 교체…이사회 달라지나",
-    "description": "지난해 12월에 이재명 대통령이 금융위원회 업무보고에서 금융권의 폐쇄적인 인사 구조를 두고 '부패한 이너서클'이라고 비판한 것을 계기로 1년여 만에 공개된 지배구조 개선안에서 사외이사들의 선임 과정에서부터...",
-    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445482",
-    "publisher": "news.einfomax.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "예보, 예금토큰 보호체계 점검 착수…'디지털 예금' 제도권 편입 신호탄",
-    "description": "금융위원회는 디지털자산기본법 정부안을 이달 국회에 제출할 계획이며, 원화 스테이블코인은 은행 중심 컨소시엄 발행 방안이 유력하다. 예보가 예금토큰 보호 기준을 제도로 정하면, 소비자는 은행이 발행한 디지털...",
-    "url": "https://www.etnews.com/20261119000072",
-    "publisher": "etnews.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "[정책포커스] 금융위-지방시대위, 5극3특 균형발전 지원사업 추진...지역...",
-    "description": "금융기관 사옥 금융위원회(위원장 이억원, 이하 위원회)는 지난 2일 개최한 제 6차 생산적금융 대전환 회의에서 5극 3특 지역 핵심 중소·중견기업 보증부 대출 공급방안을 발표했다. 은행이 신·기보 특별출연(3년간...",
-    "url": "http://www.sisacast.kr/news/articleView.html?idxno=101089",
-    "publisher": "sisacast.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "증권사 CMA 100조원 회복…입출금 자유에 연 3%까지",
-    "description": "금융위원회에서 단기금융업(발행어음) 인가를 받은 증권사만 판매할 수 있다. 대부분 증권사가 최소가입금액만 제시하고 최대 한도는 정해두지 않아 목돈을 단기 운용하기 위한 투자처로 적합하다는 평가다....",
-    "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=268923",
-    "publisher": "whitepaper.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "정부, 세대 격차 완화반 첫 회의…핵심 정책과제 발굴 본격화",
-    "description": "회의에는 재정경제부, 과학기술정보통신부, 교육부, 보건복지부, 고용노동부, 국토교통부, 기획예산처, 국무조정실, 금융위원회, 산업연구원, 경제·인문사회연구회 등이 참석했다. 세대반은 재정경제부 제1차관을...",
-    "url": "https://www.taxtimes.co.kr/news/article.html?no=277810",
-    "publisher": "taxtimes.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "보험사 지분 다 팔아도 3조원대 미회수…예보의 공적자금 '회수 딜레마...",
-    "description": "금융위원회와 예보의 공적자금 운용자료 등을 종합하면 올해 9월 말 기준 두 회사의 미회수 공적자금은 약 5조7586억원이다. 외환위기 이후 투입된 13조8000억원 가운데 지분 매각과 배당 등을 통해 회수한 금액은 약...",
-    "url": "https://dealsite.co.kr/articles/173000",
-    "publisher": "dealsite.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "[오늘의 채권ㆍ외환 메모] (11월19일)",
-    "description": "(12:00) ◇금융위원회 ▲위원장 해외출장 ▲10:00 부위원장 차관회의 ▲14:00 부위원장 실손보험 점검회의(손해보험협회) ※실손보험 점검회의 개최(14:00) ※대안신용평가 은행권 간담회 개최(20일...",
-    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445470",
-    "publisher": "news.einfomax.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "애플페이 카카오뱅크까지 확대…카드 혜택 축소 우려",
-    "description": "한편 금융위원회는 애플페이 국내 도입에 앞선 2023년 2월 3일 관련 수수료 등의 비용을 고객이나 가맹점에 부담시키지 않아야 한다는 원칙을 제시했다. 이는 수수료의 직접 전가를 제한하는 조치로, 향후 카드사들이 부가...",
-    "url": "http://www.dailypop.kr/news/articleView.html?idxno=104705",
-    "publisher": "dailypop.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "고위험 금융상품 허용하면서 규제영향분석·규제심사는 생략, \"투자자 보...",
-    "description": "금융위원회와 국무조정실은 해당 시행령 개정이 규제 신설이나 강화가 아닌 완화에 해당한다는 이유로 규제영향분석과 규제심사 대상에서 제외했다는 입장을 펼쳤다. 그러나 규제 완화라는 형식적 분류만으로 정책의...",
-    "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505718",
-    "publisher": "pinpointnews.co.kr",
+    "title": "성과급 환수·회장 연임 문턱 높인다…금융권 '법률 리스크' 확대",
+    "description": "19일 금융권에 따르면 금융위원회와 금융감독원은 지난 12일 발표한 '금융회사 지배구조 개선방안'에 고의·중과실로 회사에 손실을 입히거나 성과보수 산정의 근거가 된 재무제표가 정정될 경우 이미 지급한 성과급을...",
+    "url": "https://www.cstimes.com/news/articleView.html?idxno=728551",
+    "publisher": "cstimes.com",
     "pub_date": "2026-11-19"
    }
   ],
   "부동산 정책": [
+   {
+    "title": "금융업계, 기업·경영인 성장 지원 넓힌다",
+    "description": "하나은행은 'Gold PB' 전담 상담 채널로 세무·부동산 자산관리를 제공하고 병·의원 운영용 '닥터클럽 대출... IBK기업은행은 19일 '2026년 코스닥시장 활성화 정책 설문조사' 결과를 발표했다. 코스닥 상장기업 150곳과...",
+    "url": "https://www.pressman.kr/news/articleView.html?idxno=104556",
+    "publisher": "pressman.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "한중 FTA 후속협상 타결 효과는…호텔·면세·카지노 실적 개선 기대",
+    "description": "호텔·리조트 산업은 글로벌 여행과 레저 수요, 환율, 국가 간 비자 및 교류 정책 등 외부 변수에 민감하게... 유통과 부동산 개발 사업을 보유한 기업들도 업종 상승 흐름에 동참하고 있다. 이마트는 외국인 관광객 증가에...",
+    "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505792",
+    "publisher": "pinpointnews.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "서울시민 10명중 8명 \"정부 공급 대책, 집값 안정 효과 없을 것\" … 30대...",
+    "description": "그들에게 현재의 부동산 정책을 어떻게 평가하는지, 내 집 마련을 가로막는 현실적 장벽은 무엇인지, 정부와 서울시에 어떤 변화를 기대하는지 등을 물었다. ◆ 잇단 공급 대책에도…시민 10명 중 8명 '집값 안정 효과...",
+    "url": "https://www.newdaily.co.kr/site/data/html/2026/11/18/2026111850086.html",
+    "publisher": "newdaily.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+    "description": "청와대 정책실장은 19일 한중 자유무역협정(FTA) 서비스·투자 후속 협상이 실질적으로 타결된 데 대해... 19일 부동산 업계에 따르면 국토부는 이달 16일 서초 신반포15차(현 래미안원펜타스) 재건축조합...",
+    "url": "https://www.yna.co.kr/view/AKR20261119055500011?input=1195m",
+    "publisher": "yna.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "\"가용 재원 3조원 중 2조원이 빚과 유예분\"… 경기도 재정 비상 100일, 진...",
+    "description": "그리고 최근에는 중앙 정부의 정책으로 토지거래허가제 등 이런 부동산 정책과 관련된 여러 가지 제도들이 있기 때문에, 이로 인해서 이 부동산 취득세가 매우 줄어드는 형태를 가지고 있습니다. 대표적으로 2022년 같은...",
+    "url": "https://news.ifm.kr/news/articleView.html?idxno=484868",
+    "publisher": "news.ifm.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "DB하이텍 자사주 431억 소각·420억 취득, 1473억에 데이터센터 부지 매...",
+    "description": "INC, 부동산 개발·운영 역량을 갖춘 DB월드 등이 협력한다. DB하이텍 관계자는 \"8인치 고도화와 신수종사업 발굴을 중심으로 4대 발전 방안을 본격화하는 동시에 주주환원 정책도 적극적으로 펼쳐 회사 가치를 높여...",
+    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452367",
+    "publisher": "businesspost.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "교통·행정 호재 이어지는 검단신도시…'롯데캐슬 넥스티엘Ⅱ' 입주 본...",
+    "description": "지역 특성과 인구 구조에 맞춘 행정서비스를 제공하고 자체적인 도시 발전 정책을 추진할 수 있는 기반이... 부동산 업계에서는 이러한 변화가 검단신도시의 주거 경쟁력을 높이는 요인으로 작용할 수 있다는 분석을...",
+    "url": "https://edu.donga.com/news/articleView.html?idxno=113917",
+    "publisher": "edu.donga.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "런던 흰 돔에 연 1100만 명, 함부르크 옛 창고엔 세계적 공연장…부산 ...",
+    "description": "클레이나우 사장은 “부동산 투기만 목적으로 하는 사람에게는 땅을 팔지 않는다”며 “투자자의 사업... 친환경·스마트항만 정책을 논의했다. 전 시장은 페이스북을 통해 “런던 더 오투에서 북항 돔아레나를...",
+    "url": "https://www.munhwa.com/article/11632459?ref=naver",
+    "publisher": "munhwa.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "[전격시사] 조정훈 국민의힘 의원 - “내란 낙인에 대한 경종, 특검 고발...",
+    "description": "여당 부동산정책은 이념 행정, 이념 정책, 반시장 정책으로 30대 청년계층 가장 고생해 -대출 막은 것이 핵심, 은행 대출 총량 규제는 법적 근거 없어 위헌 소송 준비 -집값 상승 우려는 핵심 수요 차분하게 조정하고 시장을...",
+    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717041&ref=A",
+    "publisher": "news.kbs.co.kr",
+    "pub_date": "2026-11-19"
+   },
    {
     "title": "與서울시당 \"주거안정 초당적 결단 필요…野 필버 말고 협력해야\"",
     "description": "민주당은 정부의 부동산 정책을 뒷받침하기 위해 신속하게 법안을 처리한다는 방침이지만 야당과 합의가 되지 않아 본회의 상정이 지연되고 있다. 특위는 \"국민의힘이 19일 본회의에 상정되는 미합의 법안 전체에...",
@@ -934,72 +997,58 @@
     "url": "https://www.newspim.com/news/view/20261119000301",
     "publisher": "newspim.com",
     "pub_date": "2026-11-19"
-   },
-   {
-    "title": "국민연금·KIC 다음 투자처는…“AI전력·인프라” “국내전략산업 자본...",
-    "description": "중동전쟁으로 물가가 오르고 미국 중간선거 이후 정책 변화까지 겹친 가운데, AI 관련 실물자산에서 장기... 부동산은 물류·데이터센터와 가격 조정을 거친 우량 자산에, 인프라는 전력망·데이터센터에 선별적으로...",
-    "url": "https://www.mk.co.kr/article/12213297",
-    "publisher": "mk.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "안성시, 내년 1월 조직개편 단행…4국서 5국 체제로 확대",
-    "description": "정원녹지과는 공원·녹지·정원 관리 업무를 전담하고, 토지정보과는 지적과 주소, 부동산 및 지가관리 기능을 맡는다. 기후에너지과는 탄소중립과 대기환경, 신재생에너지 업무를 통합해 기후·에너지 정책을 추진한다....",
-    "url": "http://www.metroseoul.co.kr/article/20261118500606",
-    "publisher": "metroseoul.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "[기고] 인천항 배후부지 정책, 이제는 중소 물류기업 중심으로 전환해야...",
-    "description": "그러나 이러한 장점을 실질적인 물동량 증가로 연결하기 위해서는 항만 배후부지와 물류시설에 대한 정책적 지원이 반드시 뒷받침되어야 한다. 인천항 배후부지는 기업의 부동산 수익을 위한 공간이 아니라 인천항의...",
-    "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336917",
-    "publisher": "incheonilbo.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "8조원의 청구서 \"재정 관제탑 세우고 예산 추적해야\"",
-    "description": "김 위원은 \"재정정책은 경기가 뜨거울 때 식히고 식었을 때 데우는 온도조절기여야 한다\"며 \"반면 지금은 온도를 재는 사람과 난방을 트는 사람이 따로 있는 상황\"이라고 꼬집었다. 부동산 미분양과 농지 담보대출 부실이...",
-    "url": "https://www.jejusori.net/news/articleView.html?idxno=508450",
-    "publisher": "jejusori.net",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "[금융권 소식] 하나금융ㆍNH농협금융ㆍNH농협은행(11.19)",
-    "description": "하나은행은 'Gold PB' 전담 채널을 통해 세무·부동산 등 자산관리 서비스를 제공하고 병·의원 운영에 필요한... 내년에는 기후금융을 기업금융 분야의 신규 사업으로 확대하고 정부의 녹색대전환(K-GX) 정책과 연계한...",
-    "url": "http://www.weeklytoday.com/news/articleView.html?idxno=802553",
-    "publisher": "weeklytoday.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "하나금융, 연세대 의대 동문회와 '맞손'...은행권 맞춤형 서비스 확대",
-    "description": "하나은행은 'Gold PB' 전담 상담 채널을 통해 세무·부동산 등 맞춤형 자산관리 서비스를 제공하고, 병·의원... KB금융은 일하는 사람의 권리 보호와 처우 개선을 위한 정책 기조에 발맞춰 다양한 형태의 경제활동 종사자를...",
-    "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=173324",
-    "publisher": "choicenews.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "신용보증기금·신한은행, 문화콘텐츠 기업에 200억 원 규모 보증 공급",
-    "description": "무형자산 비중이 높아 시중은행 문턱을 넘기 어려웠던 국내 문화콘텐츠 기업들을 위해 정책금융기관과 시중은행이 200억원 규모의 전용 금융 지원망을 가동한다. 부동산 등 물리적 담보가 부족해 기획·제작 단계에서...",
-    "url": "http://www.ttlnews.com/news/articleView.html?idxno=3164118",
-    "publisher": "ttlnews.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "LH 발주·계약·착공 절차 혁신으로 주택 조기 공급 박차",
-    "description": "신속공급 정책이 차질 없이 이행되는 것이 공사의 최우선 과제\"라며 \"전 과정의 프로세스를 혁신하여 국민이 체감할 수 있는 주택공급 성과를 창출하겠다\"고 말했습니다. 최근 공공 건설 및 부동산 시장에서는 원자재...",
-    "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083333",
-    "publisher": "newsclaim.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "DB하이텍, 자사주 429억원 소각…서울 도심 AI 데이터센터 진출",
-    "description": "DB하이텍은 2023년 주주환원 정책을 발표한 이후 매년 배당과 자기주식 취득·소각 등을 통해 30% 이상의... DB하이텍은 이번 부동산 취득을 신수종사업 발굴의 일환으로 추진한다. 앞서 2023년 발표한...",
-    "url": "https://www.epnc.co.kr/news/articleView.html?idxno=410002",
-    "publisher": "epnc.co.kr",
-    "pub_date": "2026-11-19"
    }
   ],
   "자사주 소각": [
+   {
+    "title": "삼성전자 사장 김용관 \"코어위브 등 네오클라우드 작고 제한적, AI 성장...",
+    "description": "과거 사이클과 다르다\"며 \"오늘날 투자는 투기가 아니라 실제 유형의 수요에 따른 것\"이라고 말했다. 김 사장은 남은 주주환원을 현금배당과 상당한 규모의 자사주 매입·소각으로 이행하겠다는 기존 방침도 재확인했다.",
+    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452374",
+    "publisher": "businesspost.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "휴메딕스, ESG 평가 3회 연속 A등급 획득",
+    "description": "지배구조(G) 분야에서는 자사주 소각과 주주환원 정책을 통한 주주가치 제고, 이사회 중심 의사결정체계 및 준법·윤리경영 시스템 강화에 나섰다. 특히 이번 지배구조 평가항목 중 'ESG 경영 인프라'에서 79.08점을...",
+    "url": "https://www.medipana.com/news/articleView.html?idxno=422219",
+    "publisher": "medipana.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "휴메딕스, 서스틴베스트 ESG 평가 3회 연속 'A등급'",
+    "description": "지배구조(G) 분야에서는 자사주 소각과 주주환원 정책을 통해 주주가치 제고에 나섰다. 이사회 중심의 투명한 의사결정 체계와 준법·윤리경영 시스템도 강화했다. 특히 지배구조 평가항목 중 'ESG 경영 인프라'에서 79....",
+    "url": "https://www.asiatime.co.kr/article/20261119500095",
+    "publisher": "asiatime.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "[특징주] 키다리스튜디오, 한한령 완화 훈풍·자사주 취득 재료에 이틀...",
+    "description": "개별 기업 측면에서는 전날 공시와 보도를 통해 알려진 올해 세 번째 자사주 취득 결정과 실적 개선... 따라 소각하고 임직원 보상에 활용할 계획이다. 실적 성장세도 눈에 띈다. 키다리스튜디오의 올해 3분기 누적...",
+    "url": "https://www.widedaily.com/news/articleView.html?idxno=304105",
+    "publisher": "widedaily.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "휴메딕스, ESG 경영 내재화 성과…3회 연속 A등급",
+    "description": "지배구조 부문에서는 자사주 소각과 주주환원 정책을 추진하고 이사회 중심의 의사결정 구조와 준법·윤리경영 체계를 운영하고 있다. 특히 지배구조 세부 항목인 ESG 경영 인프라 평가에서 79.08점을 기록했다. 이는...",
+    "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885003",
+    "publisher": "hansbiz.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "DB하이텍 자사주 431억 소각·420억 취득, 1473억에 데이터센터 부지 매...",
+    "description": "DB하이텍이 431억 원 규모의 자기주식을 소각하고, 약 420조 원의 자사주를 추가 매입한다. 또 1473억 원을 들여 서울 강남구 신사동 부지와 건물을 매입해 추론용 엣지 데이터센터를 짓는다. DB하이텍이 18일 이사회를...",
+    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452367",
+    "publisher": "businesspost.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "휴메딕스, 서스틴베스트 ESG 평가 3회 연속 A등급 획득",
+    "description": "지배구조(G) 분야에서는 자사주 소각과 주주환원 정책, 이사회 중심의 의사결정 체계 및 준법·윤리경영 시스템을 강화했다. 지배구조 평가항목 가운데 'ESG 경영 인프라' 부문에서는 79.08점을 기록했다. 이는 제약...",
+    "url": "https://www.sentv.co.kr/article/view/sentv202611190070",
+    "publisher": "sentv.co.kr",
+    "pub_date": "2026-11-19"
+   },
    {
     "title": "휴메딕스, 서스틴베스트 ESG 평가 3회 연속 A등급 획득",
     "description": "지배구조 분야에서는 자사주 소각과 주주환원 정책을 추진하고, 이사회 중심의 의사결정 체계와 준법·윤리경영 시스템을 강화했다. 이번 평가의 'ESG경영 인프라' 항목에서는 79.1점을 받아 제약·생명공학·생명과학...",
@@ -1036,17 +1085,17 @@
     "pub_date": "2026-11-19"
    },
    {
-    "title": "고려아연, 신주발행무효 소송 항소심서 1심 판결 취소",
-    "description": "자본시장 전문가는 \"고려아연이 사법 리스크와 화재 사고 등 대내외 악재 속에서도 신주발행 항소심 승소와 자사주 소각을 통해 경영권 방어의 교두보를 마련했으나, 영풍 측의 지속적인 가처분 신청과 소송전이...",
-    "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885020",
-    "publisher": "hansbiz.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
     "title": "휴메딕스, 서스틴베스트 ESG 평가 3회 연속 'A등급' 획득",
     "description": "지배구조(G) 분야에서는 자사주 소각과 주주환원 정책을 통한 주주가치 제고, 이사회 중심의 투명한 의사결정 체계, 준법·윤리경영 시스템 강화 등을 추진했다. 특히 지배구조 평가항목 중 'ESG경영 인프라'에서 79....",
     "url": "https://www.news1.kr/bio/pharmaceutical-bio/6359052",
     "publisher": "news1.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "고려아연, 신주발행무효 소송 항소심서 1심 판결 취소",
+    "description": "자본시장 전문가는 \"고려아연이 사법 리스크와 화재 사고 등 대내외 악재 속에서도 신주발행 항소심 승소와 자사주 소각을 통해 경영권 방어의 교두보를 마련했으나, 영풍 측의 지속적인 가처분 신청과 소송전이...",
+    "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885020",
+    "publisher": "hansbiz.co.kr",
     "pub_date": "2026-11-19"
    },
    {
@@ -1090,58 +1139,128 @@
     "url": "http://www.newsprime.co.kr/news/article.html?no=755591",
     "publisher": "newsprime.co.kr",
     "pub_date": "2026-11-19"
-   },
-   {
-    "title": "KB금융, 10월 온라인 관심도 1위 탈환…신한 2위·하나 3위",
-    "description": "하나금융을 투자 선호 종목으로 추천한 한 블로거는 원화 강세에 따른 수익성 개선 가능성과 꾸준한 자사주 매입·소각 등을 추천 이유로 들었다. 4위와 5위는 각각 1만9684건과 1만6120건을 기록한 우리금융과...",
-    "url": "https://www.seoultimes.news/news/article.html?no=2000102388",
-    "publisher": "seoultimes.news",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "휴메딕스 ESG 평가 3회 연속 A등급…업계 평균 웃돌아",
-    "description": "제약·생명공학·생명과학 분야 108개 기업의 평균인 39.78점보다 높은 수준이다.휴메딕스는 자사주 소각과 주주환원 정책을 추진하는 한편, 이사회 중심의 의사결정 체계와 준법·윤리경영 시스템을 강화해 왔다고...",
-    "url": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1171992&ref=naverpc",
-    "publisher": "medicaltimes.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "휴메딕스, 서스틴베스트 ESG 평가 3회 연속 'A등급'",
-    "description": "지배구조(G) 측면에서는 자사주 소각 등 주주환원 정책을 추진하고 이사회 중심의 투명한 의사결정 및 준법·윤리경영 시스템을 강화했다. 특히 'ESG 경영 인프라' 항목에서 제약·생명공학·생명과학 섹터 108개 기업...",
-    "url": "http://www.medisobizanews.com/news/articleView.html?idxno=144547",
-    "publisher": "medisobizanews.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "삼성전자 “네오클라우드 부채 우려, AI 성장 위협 아니다”",
-    "description": "투기가 아니라 실제 유형의 수요에 따른 것”이라고 말했다. 주주환원 정책도 재확인했다. 김 사장은 남은 주주환원 재원을 현금배당과 상당한 규모의 자사주 매입·소각으로 이행하겠다는 기존 방침을 유지한다고 밝혔다.",
-    "url": "https://www.dt.co.kr/article/12096062?ref=naver",
-    "publisher": "dt.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "삼성 \"네오클라우드는 시장 8%뿐\"… 장기계약 내세워 AI 거품론 반박",
-    "description": "한편, 김 사장은 현금 배당과 대규모 자사주 매입·소각을 병행하는 주주 환원 방침도 재확인했다. 삼성전자가 추산한 올해 주주 환원 규모는 90조~110조원이다. 지난달 이사회에서는 정규 분기 배당을 포함해 30조원의...",
-    "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=301842",
-    "publisher": "financialpost.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "휴메딕스, ESG 평가 3회 연속 'A등급'…지배구조 부문 높은 평가",
-    "description": "지배구조 측면에서는 자사주 소각과 주주환원 정책을 추진하는 한편, 이사회 중심의 의사결정 구조와 준법·윤리경영 체계를 정비해 왔다. 앞으로는 ESG 정보 공개 범위를 넓히고 외부 평가 대응 역량을 강화할...",
-    "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626271",
-    "publisher": "mdtoday.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "“저PBR 기업, 상장 폐지보다 유지가 절세 유리…주주환원 이행 주목”...",
-    "description": "저PBR 종목에 투자할 때도 공개매수에 따른 주가 상승 기대보다는 자사주 소각과 배당 등 실질적인 주주환원 이행 여부를 살펴야 한다는 조언이다. 박세연 한화투자증권 연구원은 18일 ‘상장폐지보다 상장 유지가 절세...",
-    "url": "https://www.news2day.co.kr/article/20261119500027",
-    "publisher": "news2day.co.kr",
-    "pub_date": "2026-11-19"
    }
   ],
   "기업 실적": [
+   {
+    "title": "한중 FTA 후속협상 타결 효과는…호텔·면세·카지노 실적 개선 기대",
+    "description": "아니라 쇼핑·카지노 등 관광 연관 산업 전반에 긍정적인 영향을 줄 수 있다\"며 \"다만 협상 타결 기대와 실제 관광객 유입 사이에는 시차가 있는 만큼 기업별 고객 구성과 실적 개선 속도를 함께 확인할 필요가 있다\"고 말했다.",
+    "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505792",
+    "publisher": "pinpointnews.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "[특징주] 중국 시장 빗장 풀리나…여행·항공주 일제히 날았다",
+    "description": "협정은 실질 타결 단계로 정식 서명과 발효 절차가 남아 있다. 중국의 실제 규제 완화 범위와 현지 관광 수요 변화가 기업 실적에 얼마나 반영될지는 추가로 확인해야 할 대목이다.",
+    "url": "https://www.namdonews.com/news/articleView.html?idxno=929788",
+    "publisher": "namdonews.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "4대 은행 '깡통대출' 5조 돌파…기업 부실 급증",
+    "description": "인공지능(AI) 산업의 성장으로 반도체 수요가 확대되면서 관련 기업의 실적과 투자 여건이 개선된 영향이 반영됐다. 반면 민간소비는 0.2% 감소했다. 수출과 설비투자가 경제성장을 이끄는 동안 국내 소비는 뚜렷한...",
+    "url": "https://www.mstoday.co.kr/news/articleView.html?idxno=200516",
+    "publisher": "mstoday.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "한한령 완화 中시장 재개되나",
+    "description": "실제 시장 개방과 기업 실적 개선까지는 제도 정비와 현지 인허가 등 추가적인 과정이 필요하다. 게임·엔터테인먼트, 중국 진출 재개의 기대감 이번 협상에서 콘텐츠 업계가 주목하는 변화는 중국의 최혜국대우 약속이다....",
+    "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=366329",
+    "publisher": "smedaily.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "한한령 완화 기대에 엔터주 폭발… 스튜디오드래곤 상한가 '폭풍질주'",
+    "description": "중국 시장 개방 기대가 업종 전반으로 확산하고 있지만 기업별 사업 구조와 실적 전망에 따라 주가 흐름은 엇갈리는 모습이다. 엔터테인먼트 산업은 음반과 공연, 매니지먼트, 콘텐츠 제작, 팬덤 플랫폼 등으로 수익...",
+    "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505790",
+    "publisher": "pinpointnews.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "코스피·코스닥 상장사 3분기 실적 개선…반도체가 성장 견인",
+    "description": "코스닥150 지수 편입기업들의 실적 개선도 확인됐다. 개별기준 144개사의 누적 매출액은 전년 동기 대비 13.57%, 영업이익은 35.54%, 순이익은 40.49% 각각 증가했다. 특히 코스닥150 편입기업의 매출액영업이익률은...",
+    "url": "https://www.imaeil.com/page/view/2026111810412424355",
+    "publisher": "imaeil.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "신용보증기금-신한은행, K-콘텐츠 기업에 200억원 우대보증 공급",
+    "description": "다만 총 200억원은 협약에 따른 보증 공급 계획 규모로, 실제 지원 실적과 기업별 보증 한도는 별도로 확인할 필요가 있다. 신보 관계자는 \"이번 협약이 문화콘텐츠 기업의 원활한 자금조달에 도움이 되길 기대한다\"며...",
+    "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=211662",
+    "publisher": "lcnews.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "한국투자증권, 독점 글로벌 리서치 조회수 1000만 회 돌파…해외투자 정...",
+    "description": "투자자가 기업 실적과 거시경제 환경을 함께 살펴볼 수 있도록 정보의 범위를 넓힌 것이다. 해외 리서치는 현지 시장의 변화와 산업별 투자 환경을 이해하는 데 활용된다. 특히 미국과 중국처럼 기업과 산업의 변화...",
+    "url": "https://www.e-science.co.kr/news/articleView.html?idxno=140195",
+    "publisher": "e-science.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "코스피, 5020선 등락···엔비디아 호실적에도 AI 투자 우려 지속",
+    "description": "개별 기업의 실적보다 AI 데이터센터와 인프라 구축에 필요한 대규모 자본지출이 지속될 수 있는지, 이를 뒷받침할 자금 조달 부담은 어느 정도인지에 투자자들의 관심이 옮겨갔다는 분석이다. AI 산업의 성장...",
+    "url": "https://www.smartbizn.com/news/articleView.html?idxno=159931",
+    "publisher": "smartbizn.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "호텔신라 객실 매출 증가액, 식음료의 3.3배",
+    "description": "객실 매출은 서울·제주신라호텔과 전국 신라스테이 등을 운영하는 호텔신라와 종속기업의 연결 실적이다. 객실 매출이 식음료보다 빠르게 늘어난 배경으로는 평균 객실단가 상승이 꼽힌다. 미래에셋증권은 10월...",
+    "url": "https://www.datasom.co.kr/news/articleView.html?idxno=210865",
+    "publisher": "datasom.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "중국차 운송 늘리는 현대글로비스…매출 7500억 증가에 이익은 700억뿐?",
+    "description": "이익으로 연결하느냐에 달려 있다\"며 \"2027년에는 신규 대형선 투입과 고운임 비계열 물량 확대, 운송 원가 개선 효과가 본격화되면서 실적 성장과 기업가치 재평가의 계기가 마련될 것으로 기대한다\"고 말했다. [뉴스맵]",
+    "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=5511",
+    "publisher": "newsmap.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "한중정상회담에 '한한령' 해빙 기대감…관광·엔터·게임주 '질주'",
+    "description": "다만 한한령의 전면 해제가 확정된 것은 아닌 만큼 실제 시장 개방과 기업 실적 개선 여부가 향후 주가의 관건이 될 전망이다. 19일 한국거래소에 따르면 이날 오전 10시10분 현재 노랑풍선 주가는 29.98% 오른 4140원으로...",
+    "url": "https://www.newsis.com/view/NISX20261119_0003874614",
+    "publisher": "newsis.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "[오늘의 증시] 11월 19일 코스피 5000선 턱걸이…코스닥도 1%대 하락",
+    "description": "미국 증시 흐름과 금리 전망, 원·달러 환율, 주요 기업의 실적 기대감 등은 국내 증시에 영향을 미치는 변수로 꼽힌다. 투자자들은 오후 장에서 외국인과 기관의 매매 방향이 달라지는지, 개인투자자의 매수세가...",
+    "url": "https://www.job-post.co.kr/news/articleView.html?idxno=239455",
+    "publisher": "job-post.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "한중 콘텐츠 교류 재개 기대… CJ ENM 급등에 미디어주 들썩이네",
+    "description": "최근에는 케이블TV와 IPTV를 넘어 글로벌 온라인동영상서비스(OTT)까지 유통 경로가 확대되면서 콘텐츠 경쟁력이 기업 실적을 좌우하는 주요 요소로 자리 잡고 있다. 다만 한중 문화교류 확대 기대가 곧바로 실적 개선으로...",
+    "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505785",
+    "publisher": "pinpointnews.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "[심양섭의 정론직격]'월급쟁이가 봉이냐'던 대통령, 이제 답할 차례다",
+    "description": "역대급 실적을 거둔 기업이 그 성과를 직원들과 나누는 것은 탓할 일이 아니다. 엔비디아와 메타 등 글로벌 기술기업들이 파격적인 보상으로 인재 확보 경쟁을 벌이는 상황에서 성과급을 억제하는 것은 오히려 기업...",
+    "url": "https://www.pennmike.com/news/articleView.html?idxno=132233",
+    "publisher": "pennmike.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "WGBI 편입 끝나자 外人 국고채 순매도…환율 하방 동력 약해지나",
+    "description": "기관투자자들은 대형 기술기업의 실적과 향후 전망에 대한 재평가 과정에서 반도체를 중심으로 한국과 대만 주식의 투자 비중을 줄였다. 다만 축소 규모는 제한적이었으며, 매도 자금 일부는 현금보다 채권이나 다른...",
+    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445495",
+    "publisher": "news.einfomax.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "팔로알토, 보안 수요에 실적 호조…AI기업 인수도",
+    "description": "세계 최대 사이버보안 전문기업인 팔로알토 네트웍스가 18일(현지시간) 시장 예상을 웃도는 2027회계연도 1분기(8∼10월) 실적과 연간 전망 상향을 발표하자 시간외 거래에서 주가가 7% 이상 급등했다. 팔로알토는...",
+    "url": "https://www.yna.co.kr/view/AKR20261119048800009?input=1195m",
+    "publisher": "yna.co.kr",
+    "pub_date": "2026-11-19"
+   },
    {
     "title": "[속보] 노랑풍선 상한가·하나투어 20%대 급등…여행 관련주 '들썩', 한...",
     "description": "기대감이 실제 여행 수요 증가와 기업 실적 개선으로 연결될지는 지켜볼 필요가 있다. 여행 관련주들이 장 초반부터 큰 폭의 상승세를 보이고 있는 가운데 향후 한중 관계 변화와 관련 정책의 후속 움직임이...",
@@ -1157,555 +1276,436 @@
     "pub_date": "2026-11-19"
    },
    {
-    "title": "카카오뱅크, 금융 AI 학술대회서 논문 2편 발표",
-    "description": "두 번째 논문은 기업 실적과 물가 지표 발표, 기준금리 결정 등 반복되는 금융 이벤트를 분석해 미래 상황을 예측하는 방법론을 제시했다. 과거 유사 사례를 새로운 이벤트 분석에 활용하고 최신 정보를 반영해 예측...",
-    "url": "http://www.popcornnews.net/news/articleView.html?idxno=140699",
-    "publisher": "popcornnews.net",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "크립토퀀트 \"비트코인 6.2만달러···채굴사 압박\"",
-    "description": "주 대표가 제시한 채굴 원가는 미국 나스닥 상장 채굴기업 마라홀딩스의 실적을 토대로 산출한 수치다. 그는 지난 10일 마라홀딩스의 3분기 공시를 분석한 결과 비트코인 한 개당 평균 현금성 채굴 원가가 6만2862달러로...",
-    "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885036",
-    "publisher": "hansbiz.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "한한령 완화 기대에도⋯다올證 “엔터주 실적 기여, 빨라도 내년 하반기...",
-    "description": "한중 자유무역협정(FTA) 서비스·투자 후속협상 타결로 ‘한한령(한류 제한 조치)’ 완화 기대감이 커지고 있지만, 국내 엔터테인먼트 기업의 실적 개선으로 이어지기까지는 시간이 걸릴 것이라는 분석이 나왔다. 이번...",
-    "url": "https://www.viva100.com/article/20261119500347",
-    "publisher": "viva100.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "마이크론, AI 메모리 공급 부족 장기화 전망…2028년까지 반도체 수급 압...",
-    "description": "따라서 현재의 높은 수요 증가세가 장기간 유지될 것이라는 전망만으로 향후 가격 상승이나 기업 실적 개선을 확정적으로 판단하기는 어렵다. 마이크론의 이번 전망은 AI 산업의 성장 과정에서 반도체 연산 성능뿐...",
-    "url": "https://www.jemin.com/news/articleView.html?idxno=847677",
-    "publisher": "jemin.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "철강 한길 48년…세운철강, 포스코 철강재 누적 매입 2000만t",
-    "description": "회사에 따르면 국내 포스코 가공센터 단일기업으로는 최대 실적이다. 1978년 창업 이후 자동차와 가전, 조선, 발전설비 등에 쓰이는 철강재를 가공·공급하며 주요 산업도시에 생산거점을 마련해 왔다. 신정택 회장이...",
-    "url": "https://www.mk.co.kr/article/12212319",
-    "publisher": "mk.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "앤트로픽·스페이스X 초대형 상장 경쟁…월가, 기업가치 거품 논란 주목",
-    "description": "높은 기업가치를 인정받은 기업일수록 실적이 시장 기대에 미치지 못할 경우 주가 조정 압력에 직면할 수 있다. AI 산업과 우주산업은 모두 장기적인 성장 가능성이 주목받는 분야지만, 미래 시장의 확대가 개별 기업의...",
-    "url": "https://www.jemin.com/news/articleView.html?idxno=847676",
-    "publisher": "jemin.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "정읍 미생물센터 지원기업, 272억원 수출",
-    "description": "센터는 지난 16일 '그린바이오 농축산미생물산업 성과교류 전시회'를 열어 그간의 지원 실적과 기업들이 개발한 제품을 소개했다. 행사에는 농림축산식품부와 전북특별자치도, 정읍시 관계자를 비롯해 연구기관·대학과...",
-    "url": "http://www.jeollailbo.com/news/articleView.html?idxno=817195",
-    "publisher": "jeollailbo.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "허윤홍 GS건설 대표 \"공정거래는 기업의 기본 원칙\"",
-    "description": "공정거래위원회는 매년 기업의 CP 운영 실적을 평가해 등급을 부여하며, AA등급 이상 우수 기업에는 과징금 최대 20% 감경과 시정명령 공표 감경 등 실질적인 인센티브를 제공한다. 지난 2021년 CP 도입을 선포하고...",
-    "url": "https://www.cnbnews.com/news/articleView.html?idxno=1024436",
-    "publisher": "cnbnews.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "\"반도체 빼면 제자리\"... 500대 기업 영업익 235% 급증의 이면",
-    "description": "AI 반도체 호황이 국내 주요 기업의 전체 실적을 끌어올렸지만 금융과 공기업 등 일부 업종은 오히려 수익성이 악화하면서 기업 간 실적 격차가 뚜렷하게 나타났다. 본지와 대화를 나눈 IB업계 관계자는 이번...",
-    "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=525259",
-    "publisher": "ilyoseoul.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "스테들러코리아, ‘문화예술후원우수기관’ 재인증 획득… 김형남 팀장...",
-    "description": "2014년 제정된 ‘문화예술후원 활성화에 관한 법률’에 따라 2015년부터 매년 모범적인 문화예술후원 활동과 실적을 거둔 기업·기관을 ‘문화예술후원우수기관’으로 인증하고 있다. 올해는 신규인증 8곳과 재인증...",
-    "url": "https://www.gosiweek.com/article/1065574340582416",
-    "publisher": "gosiweek.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "하나증권 \"임상 기대만으론 부족하다…실적 갖춘 제약·바이오주에 뭉칫...",
-    "description": "하나증권 김선아 연구원은 19일 제약·바이오 산업 분석 보고서에서 4분기 들어 제약사를 중심으로 시장의 관심이 돌아오고 있다며 실적과 기업가치가 뒷받침되는 종목부터 투자 비중을 확대하는 전략을 제시했다. 올해...",
-    "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505769",
-    "publisher": "pinpointnews.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "[이슈] 기업대출 부실 증가세 ··· 은행권에 드리운 경기 양극화",
-    "description": "수출 산업의 실적 개선이 기업 전반의 자금 사정으로 이어지지 않고 있다. 반도체 등 일부 업종이 성장세를 보이는 동안 철강·석유화학 등 전통 제조업과 내수 의존도가 높은 중소기업은 매출과 수주 회복에...",
-    "url": "https://www.datasom.co.kr/news/articleView.html?idxno=210873",
-    "publisher": "datasom.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "애자일 로봇, 휴머노이드 생산 연 1만 대 기반 확보… 5억 달러 투자 유...",
-    "description": "이투데이=윤이나 기자 | -기업가치 85억 달러 인정… 산업용 로봇 솔루션 2만 대 공급 실적 피지컬 AI 기업 애자일 로봇(Agile Robots)이 5억 달러 규모의 시리즈 F 투자를 유치하고 글로벌 생산 및 사업 확장에 나선다....",
-    "url": "https://www.etoday.co.kr/news/view/2650194",
-    "publisher": "etoday.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "신유열 3세 경영 본격화…10년 묵은 호텔롯데 IPO, 승계의 퍼즐 풀까",
-    "description": "[AI 인포그래픽=남라다 기자] ◆전체 영업익 53% 견인한 호텔…박두환, 상장 체력 키울까 호텔롯데 상장의 선결 조건은 시장이 인정할 만한 실적과 기업가치다. 지난 3월 당시 고정욱 롯데지주 대표는 주주총회에서...",
-    "url": "https://www.newspim.com/news/view/20261118000907",
-    "publisher": "newspim.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "파주시, 경기도 유일 평화경제특구 1차 지정 신청 완료…경기북부 성장...",
-    "description": "시는 평화경제특구 조성을 위한 개발계획과 관계기관 협의 자료, 기업 투자유치 실적 등을 확보해 지난 9월 30일 1차 신청 기한 내 관련 서류 제출을 완료했다고 밝혔다. 앞서 경기도는 지난 3월 30일 파주시와 포천시...",
-    "url": "http://www.metroseoul.co.kr/article/20261119500031",
-    "publisher": "metroseoul.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "하나증권 \"스튜디오드래곤부터 제주항공까지…한중 관계 개선에 들썩이...",
-    "description": "다만 관광객 증가가 실제 매출로 연결되는 속도와 소비 규모에 따라 기업별 실적 개선 폭은 달라질 수 있다. 게임 업종 역시 잠재적인 수혜 분야다. 중국이 한국 게임에 최혜국대우를 약속하고 사전심사 비차별 원칙을...",
-    "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505763",
-    "publisher": "pinpointnews.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "수원특례시 이재준 시장, \"정책은 실행으로, 성과는 시민에게\"",
-    "description": "다만 법인지방소득세는 기업 실적과 산업 경기의 영향을 받는 세목인 만큼 반도체 산업의 호황이 장기적인 세입 안정으로 이어질지는 지속적인 관리가 필요한 부분이다. 이에 시는 필요한 사업에 투자하면서도 재정...",
-    "url": "http://www.metroseoul.co.kr/article/20261118500610",
-    "publisher": "metroseoul.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "[뉴욕 마켓 브리핑](19일)",
-    "description": "일본 9월 핵심기계류 수주 ▲0930 호주 10월 실업률 *미국 지표/기업 실적 ▲0230 미국 오스탄 굴스비 시카고 연은 총재 연설 ▲0415 미국 마이클 바 연준 이사 연설 ▲실적발표: 알리바바 ▲앤트로픽 상장",
-    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445467",
-    "publisher": "news.einfomax.co.kr",
+    "title": "수능에 오전 10시 개장한 증시...코스피 상승 출발",
+    "description": "여기에 '클로드'의 개발사 앤트로픽이 스페이스X를 제치고 역대 최대 규모의 기업공개 실적을 기록했다는 소식이 전해지면서, AI주 투자 심리 회복으로 이어질지 관심입니다. 앤트로픽 공모 흥행이 장기적으로는 AI 투자...",
+    "url": "https://www.ytn.co.kr/_ln/0102_202611191014513775",
+    "publisher": "ytn.co.kr",
     "pub_date": "2026-11-19"
    }
   ],
   "삼성전자": [
    {
-    "title": "엔비디아 흔들려도 보합권서 버티는 코스피…\"관건은 앤스로픽 상장\"",
-    "description": "반면 삼성생명(-2.16%), 삼성전자우(-1.46%), SK스퀘어(-0.99%), 현대차(-0.56%), KB금융(-0.45%), 삼성전자(-0.36%) 등은 내리고 있다. 코스닥은 전 거래일 대비 3.98포인트(0.60%) 오른 666.79에 거래되고 있다. 전장보다 0.83% 오른...",
-    "url": "https://www.etoday.co.kr/news/view/2650226",
-    "publisher": "etoday.co.kr",
+    "title": "삼성전자 사장단 인사 임박…전영현·노태문 '투톱' 겸직체제 바뀌나",
+    "description": "삼성전자가 이르면 20일 정기 사장단 인사를 단행할 것으로 보인다. 최대 관심은 전영현 반도체(DS)부문장 부회장과 노태문 완제품(DX)부문장 사장이 각각 겸임하고 있는 메모리사업부장과 모바일경험(MX)사업부장...",
+    "url": "https://www.peoplewatch.co.kr/article/view/ppw202611190004",
+    "publisher": "peoplewatch.co.kr",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "[개장시황] 코스피, 美 증시 혼조 여파에 장 초반 등락",
-    "description": "시가총액 상위 종목 가운데 삼성전자(0.31%), SK하이닉스(0.70%), LG에너지솔루션(0.16%), 삼성바이오로직스(0.07%), 삼성전기(0.49%), 현대차(0.19%), 삼성생명(0.39%) 등이 상승 중인 반면 SK스퀘어(-0.14%), KB금융(-0.19%) 등은...",
-    "url": "https://www.ajunews.com/view/20261119100729321",
-    "publisher": "ajunews.com",
+    "title": "코스피, 상승 출발 후 1%대 하락 전환...외국인 5거래일 연속 순매도",
+    "description": "국내 시가총액 상위 종목 가운데 삼성전자와 SK하이닉스는 나란히 2% 안팎의 하락세를 보였다. SK스퀘어(-1.55%), 현대차(-0.94%), 삼성생명(-1.76%) 등도 약세를 나타냈다. 반면 셀트리온은 2.89% 상승했으며...",
+    "url": "https://www.m-economynews.com/news/article.html?no=73281",
+    "publisher": "m-economynews.com",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "앤트로픽, 공모가 83달러 확정…일반 공모 조달만 108조원",
-    "description": "18일 종가 기준 삼성전자의 시총은 약 1249조원이다. 1조5000억달러의 시총은 미국 증시에서도 8위 메타, 9위 테슬라 바로 아래다. 이번 흥행의 배경에는 코딩 에이전트 '클로드 코드(Claude Code)' 등을 앞세운 가파른...",
-    "url": "https://www.thelec.kr/news/articleView.html?idxno=65647",
-    "publisher": "thelec.kr",
+    "title": "삼성전자, 에이전틱 AI 시대 '소캠2' 주목…서버 메모리 시장 대응",
+    "description": "삼성전자가 에이전틱 인공지능(AI) 시대를 겨냥한 서버용 메모리 솔루션으로 '소캠2(SOCAMM2)'를 제시했다. AI가 스스로 추론하고 여러 작업을 연속적으로 수행하는 방향으로 발전하면서 메모리 용량과 대역폭은 물론...",
+    "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1732251",
+    "publisher": "ebn.co.kr",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "KT, 수험생 대상 'Y수능 페스타' 개최 … 통신·쇼핑·여가 혜택 제공",
-    "description": "갤럭시 Z 폴더블8 시리즈와 갤럭시 S26 시리즈, 갤럭시 S25 Edge 구매 고객은 삼성닷컴 앱에 구매 후기를 작성해 응모하면 갤럭시 버즈4 시리즈 30% 할인 쿠폰 등 삼성전자의 수험생 대상 혜택도 받을 수 있다. 온라인...",
-    "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=92270",
-    "publisher": "worktoday.co.kr",
+    "title": "[개장] 코스피, 엔비디아 호실적 불구 하락 전환… 삼전닉스 약세",
+    "description": "시가총액 1·2위인 삼성전자와 SK하이닉스는 나란히 하락하고 있다. 삼성전자는 전 거래일 대비 800원(0.41%) 내린 19만3900원, SK하이닉스는 3000원(0.26%) 하락한 114만1000원에 거래되고 있다. 이밖에 삼성전자우(-1.71...",
+    "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001386",
+    "publisher": "it.chosun.com",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "\"코스피 역대급 낙폭에 바닥론 확산\"... 증권가 \"AI주 중심 반등 가능성...",
-    "description": "권 연구원은 \"6월 고점 이후 주가 하락 폭이 컸지만 실적 추세가 유지되고 있는 종목 가운데 삼성전자, SK하이닉스, SK스퀘어, 삼성전기 등 AI 밸류체인 관련 기업이 다수 포함돼 있다\"며 \"과거 사례를 감안하면 향후 증시...",
-    "url": "http://www.queen.co.kr/news/articleView.html?idxno=466578",
-    "publisher": "queen.co.kr",
+    "title": "삼성전자 사장 김용관 \"코어위브 등 네오클라우드 작고 제한적, AI 성장...",
+    "description": "김용관 삼성전자 디바이스솔루션(DS)부문 경영전략총괄 사장이 네오클라우드 업체의 과도한 부채가 인공지능(AI) 거품을 키운다는 주장을 일축했다. 로이터에 따르면 18일(현지시각) 김용관 사장이 이날 싱가포르에서...",
+    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452374",
+    "publisher": "businesspost.co.kr",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "수능날 찬바람에도 증시는 빨간불…코스피 5100선 코앞",
-    "description": "시가총액 상위 종목에서는 삼성전자가 전 거래일보다 0.05% 오른 19만4800원, SK하이닉스는 0.70% 상승한 115만2000원에 거래되고 있다. LG에너지솔루션(0.82%), 삼성바이오로직스(0.66%), 삼성전기(0.49%), 현대차(0.56...",
-    "url": "https://news.tf.co.kr/read/economy/2390787.htm",
-    "publisher": "news.tf.co.kr",
+    "title": "삼성전자·SK하이닉스 상승 출발 뒤 급반전…장중 하락폭 2%대로 확대",
+    "description": "삼성전자와 SK하이닉스가 19일 장 초반 동반 하락 중이다. 삼성전자·SK하이닉스 상승 출발 뒤 하락 전환 이날 유가증권시장에서 삼성전자는 오전 10시23분 현재 전장보다 1.49% 내린 19만1800원에 거래되고 있다....",
+    "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000084408",
+    "publisher": "jnilbo.com",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "롯데하이마트, 수험생 대상 IT가전 행사 운영…노트북·모바일 등 품목...",
-    "description": "태블릿과 노트북 부문에는 삼성전자 갤럭시탭 S12+, 레노버 슬림3 등이 포함됐으며, 애플 제품군에서는 아이패드 에어와 맥북 에어, 펜슬 프로 등을 선보인다. 애플 제품 행사는 12월 26일까지 이어진다. 스마트폰 부문은...",
-    "url": "https://www.lawissue.co.kr/view.php?ud=20261119101256372204ead0791_12",
-    "publisher": "lawissue.co.kr",
+    "title": "\"폰 잠금만으론 부족하다\"…앱까지 잠그는 삼성·애플의 사생활 보호 경...",
+    "description": "삼성전자가 스마트폰 자체의 잠금을 해제한 상태에서도 개별 애플리케이션(앱)에 대한 접근을 막고 관련 알림까지 숨길 수 있는 기능을 선보인다. 앞서 애플도 아이폰에 개별 앱 잠금과 가리기 기능을 도입한 바 있다....",
+    "url": "https://www.newsis.com/view/NISX20261119_0003874598",
+    "publisher": "newsis.com",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "삼성전자, 베트남 제조업 디지털 전환 가속... 스마트공장 지원 효과 '톡...",
-    "description": "2022년부터 현지 기업 96곳 컨설팅·전문가 240명 이상 양성 아주경제=호찌민시(베트남)=김혜인 통신원 haileykim0516@ajunews.com 베트남 하노이 북부 박닌성에 위치한 삼성전자 스마트폰 생산 공장 [사진=삼성전자] 삼성전자가...",
-    "url": "https://www.ajunews.com/view/20261119100317309",
-    "publisher": "ajunews.com",
+    "title": "[건설업계 동향] 포스코이앤씨ㆍ한화 건설부문ㆍ태영건설(11.19)",
+    "description": "9월 로봇특화단지 지정, 7월 삼성전자·삼성SDS의 19조원 규모 투자 계획 발표도 이어졌다. 단지에서 문장초·구미중·구미고·구미여고까지 걸어서 통학할 수 있고 도량동·원호리 상권과 봉곡동 생활권이 가깝다....",
+    "url": "http://www.weeklytoday.com/news/articleView.html?idxno=802567",
+    "publisher": "weeklytoday.com",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "[개장시황] 수능일 코스피 상승 출발 뒤 하락 전환⋯5060선 약보합",
-    "description": "시가총액 상위 종목 가운데 삼성전자는 전 거래일보다 700원(0.36%) 내린 19만4000원에 거래되고 있다. 반면 SK하이닉스는 2000원(0.17%) 오른 114만6000원을 나타내고 있다. 지난 18일 뉴욕증시 3대 지수는 혼조세로...",
-    "url": "https://www.viva100.com/article/20261118500022",
-    "publisher": "viva100.com",
+    "title": "이주희·이광재 의원, 'K-FAST 글로벌 경쟁력 강화 정책토론회' 개최",
+    "description": "이날 발제는 ▲한정훈 K-엔터테크허브 대표의 '글로벌 FAST 시장 동향 및 K-FAST 확산 전략' ▲신현진 허드슨AI 대표의 '글로벌 시장에서의 K-콘텐츠와 AI 기술 경쟁력' ▲삼성전자·LG전자의 'K-FAST 플랫폼 가치와 글로벌...",
+    "url": "https://www.tournews21.com/news/articleView.html?idxno=148920",
+    "publisher": "tournews21.com",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "이병철 삼성 창업회장 39주기 … 이재용 회장 등 범삼성가 참배",
-    "description": "이재용 삼성전자 회장을 비롯해 삼성·신세계·CJ·한솔 등 범삼성가 인사들이 시간을 달리해 참석해 고인의 넋을 기렸다. 이 창업회장이 무역업에서 출발해 제당·제모·전자·반도체로 사업 영역을 확장하며 한국 산업...",
-    "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950053.html",
+    "title": "[마켓펄스] '빅스텝' 우려에 AI 수익성 경계감↑...5000피 또 붕괴",
+    "description": "이날 반도체 대장주인 삼성전자는 전장 대비 2.16% 약세고, SK하이닉스도 2.27% 하락 중이다. 코스닥은 전 거래일보다 5.50포인트(+0.83%) 오른 668.31에 장을 시작했다. 개인은 1391억원 순매수 중이고, 외국인과 기관은...",
+    "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=130964",
+    "publisher": "ntoday.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "코스피, 기관‧외국인 매도에 장중 5000선 내줘",
+    "description": "삼성전자와 SK하이닉스가 각각 2.11%, 1.4% 약세고 SK스퀘어 －1.83%, LG에너지솔루션 －2.13%, 삼성바이오로직스 －1.1%, KB금융 －1.66%, 현대차 －2.62%, 삼성생명 －2.16%, 삼성물산 －2.4% 등이 내렸다. 반면...",
+    "url": "https://view.asiae.co.kr/article/2026111910441343851",
+    "publisher": "view.asiae.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "앤트로픽 공모 흥행…AI 투자심리 반전 이끌까",
+    "description": "국내 반도체 대장주인 삼성전자와 SK하이닉스의 주가 흐름도 관심사다. 이날 수능으로 평소보다 1시간 늦게 개장한 국내 증시에서 삼성전자와 SK하이닉스는 오전 10시9분 기준 각각 전 거래일보다 0.41% 하락한...",
+    "url": "https://www.cstimes.com/news/articleView.html?idxno=728554",
+    "publisher": "cstimes.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "반도체 산단 배후 주거지, 출퇴근 거리 넘어 ‘생활 인프라’로 선택 기...",
+    "description": "원삼면에서는 SK하이닉스의 용인 반도체 클러스터 일반산업단지가 조성되고 있고, 이동·남사읍 일대에서는 삼성전자의 첨단시스템반도체 국가산업단지가 추진 중이다. 대규모 반도체 산업거점이 잇따라 들어서면서...",
+    "url": "https://biz.heraldcorp.com/article/10942443?ref=naver",
+    "publisher": "biz.heraldcorp.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "포스코이앤씨, 천안 성성호수공원 인근 1290가구 분양…20일 견본주택 개...",
+    "description": "삼성전자와 삼성SDI 등의 투자가 이어지는 천안 지역에서 삼성SDI 천안사업장을 비롯한 주요 산업시설과 가까워 관련 종사자들의 주거 수요를 기대할 수 있다는 게 회사 측 설명이다. 교통 여건으로는 단지에서 약...",
+    "url": "https://www.businessplus.kr/news/articleView.html?idxno=120122",
+    "publisher": "businessplus.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "'젠슨 황 공백'에 연준 매파까지 … 수능날 '코스피' 상승 출발 후 하락...",
+    "description": "반도체 투톱인 삼성전자는 전일 대비 0.92% 내린 19만2700원에 거래되고 있다. SK하이닉스는 0.17% 내린 114만1000원을 나타내고 있다. 코스닥은 전일 대비 1.38p(0.21%) 내린 661.43을 기록 중이다. 코스닥도 5.50p(0.83%) 오른 668....",
+    "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950085.html",
     "publisher": "biz.newdaily.co.kr",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "美 긴축 우려에 코스피 보합권 등락… 한한령 해제 수혜주는 급등",
-    "description": "삼성전자와 SK하이닉스 주가가 보합권에서 움직이는 가운데 이날 중국과 관계가 개선될 경우 수혜가 예상되는 종목이 일제히 강세를 보이고 있다. 아모레퍼시픽과 LG생활건강 등 화장품 주가 큰 폭 상승하고 있고...",
-    "url": "https://biz.chosun.com/stock/stock_general/2026/11/19/WZCD7XH4FNFP7L5RTTRJPUHVLQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "publisher": "biz.chosun.com",
+    "title": "또 5000선 무너진 코스피…반도체주 약세에 하락 전환[개장시황]",
+    "description": "다만 장 초반 삼성전자와 SK하이닉스 등 반도체 대형주가 하락 전환하면서 상승세가 지켜내지 못했다. 코스닥도 상승 출발했지만 이차전지와 로봇주를 중심으로 매도세가 나타나고 있다. 19일 한국거래소에...",
+    "url": "https://www.newsway.co.kr/news/view?ud=2026111910292767933",
+    "publisher": "newsway.co.kr",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "[개장시황] 수능일 1시간 늦게 열린 증시…코스피·코스닥 약보합",
-    "description": "개장 초 코스피와 코스닥은 나란히 약보합권에서 움직였고, 삼성전자와 SK하이닉스도 소폭 하락세를 나타냈다. 한국거래소에 따르면 이날 유가증권시장과 코스닥시장의 정규 거래시간은 오전 10시부터 오후...",
-    "url": "https://www.namdonews.com/news/articleView.html?idxno=929784",
-    "publisher": "namdonews.com",
+    "title": "반도체 산단 배후 주거지, 출퇴근 거리 넘어 ‘생활 인프라’로 선택 기...",
+    "description": "원삼면에서는 SK하이닉스의 용인 반도체 클러스터 일반산업단지가 조성되고 있고, 이동·남사읍 일대에서는 삼성전자의 첨단시스템반도체 국가산업단지가 추진 중이다. 대규모 반도체 산업거점이 잇따라 들어서면서...",
+    "url": "https://biz.heraldcorp.com/article/10942440?ref=naver",
+    "publisher": "biz.heraldcorp.com",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "\"AI 규제, 메모리 수요 못 꺾는다⋯삼전·SK하닉 최선호\"",
-    "description": "이 연구원은 \"브레이크는 밟아도 엔진은 멈추지 않듯 민주당의 AI 규제는 속도를 늦출 뿐 수요의 방향은 바꿀 수 없다\"며 \"규제의 역풍보다 강력한 AI 수요를 고려할 때 삼성전자와 SK하이닉스를 최선호주로 제시한다\"고...",
-    "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=82579",
-    "publisher": "newsfc.co.kr",
+    "title": "코스피 하루 만에 다시 5000선 아래로…외국인 5거래일 연속 순매도",
+    "description": "삼성전자와 SK하이닉스는 2% 안팎 하락률을 보이고 있다. 이외 시가총액 상위 종목 중에선 LG에너지솔루션과 삼성전기가 보합권에서 움직이고 있고, 셀트리온(2.89%)이 상승 중이다. SK스퀘어(-1.55%)와 현대차(-0.94...",
+    "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000084406",
+    "publisher": "jnilbo.com",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "기아 노사, '사랑나누기' 기부 캠페인 진행...다른 기업들은?",
-    "description": "삼성은 지난 12일 삼성전자 화성사업장 DSR타워에서 '2026 나눔의 날' 행사를 개최했다. 지난 2일부터 진행된 '나눔위크'에는 국내 23개 관계사 임직원 10만8000여명이 참여했다. 사원증을 한 번 대면 1000원씩 기부되는...",
-    "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=173325",
-    "publisher": "choicenews.co.kr",
+    "title": "'반도체 캡티브' 업은 삼성물산, 건축 계약부채 1조 급증",
+    "description": "삼성물산 건설부문이 삼성전자 등 계열사의 설비투자를 바탕으로 건축 일감을 늘리는 가운데 계약부채도 석 달 새 1조원 넘게 증가했다. 발주처에서 미리 받은 공사선수금과 매출보다 앞서 청구한...",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=679090",
+    "publisher": "bloter.net",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "이병철 삼성 창업회장 39주기…이재용·이재현 등 범삼성가 추도식",
-    "description": "/사진=연합뉴스 호암 이병철 삼성 창업회장의 39주기를 맞아 이재용 삼성전자 회장과 이재현 CJ그룹 회장 등 범삼성가가 경기 용인 선영을 찾는다. 19일 재계에 따르면 삼성과 CJ, 신세계, 한솔 등 범삼성 계열 그룹 총수...",
-    "url": "http://www.4th.kr/news/articleView.html?idxno=2122191",
-    "publisher": "4th.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "구글에 4518억 평결 낸 터치스트림, 스마트싱스·TV 플러스 제소하자 삼...",
-    "description": "법원 기록상 피고는 삼성전자와 삼성전자 미국법인, 삼성전자가 2017년 인수한 전장·오디오 자회사 하만 인터내셔널 인더스트리스 3곳이다. 미국 법률 전문매체 블룸버그 로는 6월 29일 터치스트림이 삼성의...",
-    "url": "https://www.g-enews.com/view.php?ud=202611190956554694fbbec65dfb_1",
-    "publisher": "g-enews.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "구미 최초 민간공원 특례 아파트 공급된다",
-    "description": "로봇특화단지 지정과 삼성전자·삼성SDS의 19조원 규모 투자 계획 등 산업 분야 호재도 이어지고 있다. 견본주택은 경북 구미시 고아읍 원호리에 마련되며 입주는 2030년 2월 예정이다.",
-    "url": "https://www.edaily.co.kr/News/Read?newsId=02325526645647360&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-    "publisher": "edaily.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "이병철 삼성 창업회장 39주기…범삼성가 용인 선영서 추도식",
-    "description": "삼성에서는 이 창업회장의 손자인 이재용 삼성전자 회장과 홍라희 삼성미술관 리움 명예관장 등 총수 일가가 참석한다. 이 창업회장의 장손인 이재현 CJ그룹 회장도 이날 오전 선영을 찾을 예정이다. 이선호...",
-    "url": "https://www.etoday.co.kr/news/view/2650213",
-    "publisher": "etoday.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "애플의 '갑' 계약 방식 바뀌나…삼성과 4~5년 D램 장기 계약 추진",
-    "description": "출처: 삼성전자 애플이 메모리 반도체 공급난에 대응하기 위해 삼성전자와 4~5년간 D램 장기 공급 계약(LTA)을 체결할 것이란 소식이 전해졌다. 19일 외신 및 국내 보고서에 따르면 삼성전자와 애플은 내년 상반기부터...",
-    "url": "https://kbench.com/?q=node/283460",
-    "publisher": "kbench.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "마이크론, AI 메모리 공급 부족 장기화 전망…2028년까지 반도체 수급 압...",
-    "description": "한국의 삼성전자와 SK하이닉스 역시 글로벌 메모리 시장의 주요 기업이라는 점에서 이러한 산업 변화와 밀접한 관계가 있다. AI용 고성능 메모리 시장에서 기술 경쟁이 심화하는 가운데 생산능력과 고객사 확보, 제품별...",
-    "url": "https://www.jemin.com/news/articleView.html?idxno=847677",
-    "publisher": "jemin.com",
+    "title": "[개장] 코스피, 앤트로픽 상장 앞두고 1%대 하락…5000선 내줘",
+    "description": "시가총액 상위 종목 가운데 삼성전자(-1.90%)와 SK하이닉스(-1.22%)가 동반 1%대 하락률을 보이고 있다. 이외에 현대차(-2.43%), 삼성생명(-2.16%), LG에너지솔루션(-2.13%), KB금융(-1.73%), SK스퀘어(-1.27...",
+    "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885053",
+    "publisher": "hansbiz.co.kr",
     "pub_date": "2026-11-19"
    }
   ],
   "SK하이닉스": [
    {
-    "title": "엔비디아 흔들려도 보합권서 버티는 코스피…\"관건은 앤스로픽 상장\"",
-    "description": "시가총액 상위 종목 중에선 셀트리온(2.41%), 삼성바이오로직스(0.73%), SK하이닉스(0.35%), 삼성전기(0.25%), LG에너지솔루션(0.16%) 등이 오르고 있다. 반면 삼성생명(-2.16%), 삼성전자우(-1.46%), SK스퀘어(-0.99%), 현대차(-0....",
-    "url": "https://www.etoday.co.kr/news/view/2650226",
-    "publisher": "etoday.co.kr",
+    "title": "[개장] 코스피, 엔비디아 호실적 불구 하락 전환… 삼전닉스 약세",
+    "description": "시가총액 1·2위인 삼성전자와 SK하이닉스는 나란히 하락하고 있다. 삼성전자는 전 거래일 대비 800원(0.41%) 내린 19만3900원, SK하이닉스는 3000원(0.26%) 하락한 114만1000원에 거래되고 있다. 이밖에 삼성전자우(-1.71...",
+    "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001386",
+    "publisher": "it.chosun.com",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "[개장시황] 코스피, 美 증시 혼조 여파에 장 초반 등락",
-    "description": "시가총액 상위 종목 가운데 삼성전자(0.31%), SK하이닉스(0.70%), LG에너지솔루션(0.16%), 삼성바이오로직스(0.07%), 삼성전기(0.49%), 현대차(0.19%), 삼성생명(0.39%) 등이 상승 중인 반면 SK스퀘어(-0.14%), KB금융(-0.19%) 등은...",
-    "url": "https://www.ajunews.com/view/20261119100729321",
-    "publisher": "ajunews.com",
+    "title": "코스피, 상승 출발 후 1%대 하락 전환...외국인 5거래일 연속 순매도",
+    "description": "국내 시가총액 상위 종목 가운데 삼성전자와 SK하이닉스는 나란히 2% 안팎의 하락세를 보였다. SK스퀘어(-1.55%), 현대차(-0.94%), 삼성생명(-1.76%) 등도 약세를 나타냈다. 반면 셀트리온은 2.89% 상승했으며...",
+    "url": "https://www.m-economynews.com/news/article.html?no=73281",
+    "publisher": "m-economynews.com",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "수자원공사, 용인 반도체 클러스터 현장 점검…양승조 \"첨단산업에 안정...",
-    "description": "양승조 한국수자원공사 사장은 어제(18일) SK하이닉스의 경기 용인 반도체 클러스터를 찾아 용수 공급에 필요한 기반시설 추진 상황을 점검했습니다. 또 국산 초순수 기술을 생산 현장에 적용하는 방안을 SK하이닉스와...",
-    "url": "http://www.mbn.co.kr/pages/vod/programContents.php?progCode=683&menuCode=4385&bcastSeqNo=1434089",
-    "publisher": "mbn.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "\"코스피 역대급 낙폭에 바닥론 확산\"... 증권가 \"AI주 중심 반등 가능성...",
-    "description": "권 연구원은 \"6월 고점 이후 주가 하락 폭이 컸지만 실적 추세가 유지되고 있는 종목 가운데 삼성전자, SK하이닉스, SK스퀘어, 삼성전기 등 AI 밸류체인 관련 기업이 다수 포함돼 있다\"며 \"과거 사례를 감안하면 향후 증시...",
-    "url": "http://www.queen.co.kr/news/articleView.html?idxno=466578",
-    "publisher": "queen.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "SK 주요 상장사 11곳 이사회 의장 모두 독립이사…최태원, 주주가치 강조",
-    "description": "SK㈜는 2019년부터 독립이사 의장 체제를 운영해 왔으며, 올해 3월에는 SK하이닉스와 SK텔레콤, SK케미칼도 독립이사를 이사회 의장으로 선임했다. SK그룹은 2021년 '거버넌스 스토리'를 발표한 이후 이사회의 경영진...",
-    "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=241985",
-    "publisher": "ezyeconomy.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "수능날 찬바람에도 증시는 빨간불…코스피 5100선 코앞",
-    "description": "시가총액 상위 종목에서는 삼성전자가 전 거래일보다 0.05% 오른 19만4800원, SK하이닉스는 0.70% 상승한 115만2000원에 거래되고 있다. LG에너지솔루션(0.82%), 삼성바이오로직스(0.66%), 삼성전기(0.49%), 현대차(0.56...",
-    "url": "https://news.tf.co.kr/read/economy/2390787.htm",
-    "publisher": "news.tf.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "[개장시황] 수능일 1시간 늦게 열린 증시…코스피·코스닥 약보합",
-    "description": "개장 초 코스피와 코스닥은 나란히 약보합권에서 움직였고, 삼성전자와 SK하이닉스도 소폭 하락세를 나타냈다. 한국거래소에 따르면 이날 유가증권시장과 코스닥시장의 정규 거래시간은 오전 10시부터 오후...",
-    "url": "https://www.namdonews.com/news/articleView.html?idxno=929784",
-    "publisher": "namdonews.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "\"AI 규제, 메모리 수요 못 꺾는다⋯삼전·SK하닉 최선호\"",
-    "description": "이 연구원은 \"브레이크는 밟아도 엔진은 멈추지 않듯 민주당의 AI 규제는 속도를 늦출 뿐 수요의 방향은 바꿀 수 없다\"며 \"규제의 역풍보다 강력한 AI 수요를 고려할 때 삼성전자와 SK하이닉스를 최선호주로 제시한다\"고...",
-    "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=82579",
-    "publisher": "newsfc.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "美 긴축 우려에 코스피 보합권 등락… 한한령 해제 수혜주는 급등",
-    "description": "삼성전자와 SK하이닉스 주가가 보합권에서 움직이는 가운데 이날 중국과 관계가 개선될 경우 수혜가 예상되는 종목이 일제히 강세를 보이고 있다. 아모레퍼시픽과 LG생활건강 등 화장품 주가 큰 폭 상승하고 있고...",
-    "url": "https://biz.chosun.com/stock/stock_general/2026/11/19/WZCD7XH4FNFP7L5RTTRJPUHVLQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "publisher": "biz.chosun.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "[개장시황] 수능일 코스피 상승 출발 뒤 하락 전환⋯5060선 약보합",
-    "description": "반면 SK하이닉스는 2000원(0.17%) 오른 114만6000원을 나타내고 있다. 지난 18일 뉴욕증시 3대 지수는 혼조세로 마감했다. 나스닥종합지수는 전 거래일보다 0.42% 상승했으나 스탠더드앤드푸어스(S&P)500지수와...",
-    "url": "https://www.viva100.com/article/20261118500022",
-    "publisher": "viva100.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "SK하이닉스 주가, 11월 19일 장중 1,153,000원 0.79% 상승",
-    "description": "|중앙이코노미뉴스 조용우 기자|  19일 오전 10시 6분 기준, 네이버페이 증권에 따르면 SK하이닉스 주가가 지난 종가 대비 상승세를 보이고 있다. 출처=네이버페이증권 현재가는 1,153,000원으로, 지난...",
-    "url": "https://www.joongangenews.com/news/articleView.html?idxno=565052",
-    "publisher": "joongangenews.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "마이크론, AI 메모리 공급 부족 장기화 전망…2028년까지 반도체 수급 압...",
-    "description": "한국의 삼성전자와 SK하이닉스 역시 글로벌 메모리 시장의 주요 기업이라는 점에서 이러한 산업 변화와 밀접한 관계가 있다. AI용 고성능 메모리 시장에서 기술 경쟁이 심화하는 가운데 생산능력과 고객사 확보, 제품별...",
-    "url": "https://www.jemin.com/news/articleView.html?idxno=847677",
-    "publisher": "jemin.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "애플의 '갑' 계약 방식 바뀌나…삼성과 4~5년 D램 장기 계약 추진",
-    "description": "삼성전자와 SK하이닉스 등 주요 제조사들도 서버용 제품 생산에 역량을 집중하면서 스마트폰과 PC에 들어가는 모바일 D램 공급난까지 심화하는 상황이다. 애플은 그동안 공급업체와 단기 계약을 맺고 갱신 때마다 가격...",
-    "url": "https://kbench.com/?q=node/283460",
-    "publisher": "kbench.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "KDI, 내년 성장률 전망 2.2%→3.9%…반도체 호황 반영",
-    "description": "삼성전자(005930)·SK하이닉스(000660) 비중이 높은 국내 주식형 펀드와 반도체 ETF는 업황에 따라 성과가 크게 달라질 수 있다. ■ 美 긴축 지속: CME 페드워치는 미 연준이 12월 FOMC에서 0.25%포인트 인상(베이비스텝)...",
-    "url": "https://www.sedaily.com/article/20116291?ref=naver",
-    "publisher": "sedaily.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "호남권 반도체 산단 남쪽은 삼전, 북쪽은 SK하이닉스 입주",
-    "description": "삼전 120만평 SK하이닉스 100만평 사용...올해 안에 입주 협약 전망 아주경제=박승호 기자 shpark0099@ajunews.com 반도체 산단이 들어설 광주 군공항 일대. [사진=광주특별시] 광주 군공항 부지에 조성될 호남권 반도체...",
-    "url": "https://www.ajunews.com/view/20261119095140277",
-    "publisher": "ajunews.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "반도체 산단 배후 주거지로 번지는 '전국 청약'…연말 공급 잇따라",
-    "description": "특히 SK하이닉스가 대규모 투자를 계획하고 반도체 생산시설을 조성 중인 용인 반도체 클러스터 일반산업단지와 가깝다. 향후 생산라인과 소재·부품·장비 기업들의 입주가 본격화하면 관련 종사자들의 배후 주거...",
-    "url": "https://www.mediapen.com/news/view/1138510",
-    "publisher": "mediapen.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "반도체도시에 들어서는 '전국 청약' 단지… 개발호재·미래가치 높아",
-    "description": "이 아파트는 SK하이닉스가 600조 원을 투자해 반도체 생산라인(팹·Fab) 4기를 짓고 있는 용인 반도체 클러스터 일반산업단지에 들어선다. 향후 SK하이닉스 반도체 생산라인이 가동되고, 50여 개 소재·부품·장비(소부장)...",
-    "url": "http://www.ikld.kr/news/articleView.html?idxno=344464",
-    "publisher": "ikld.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "최태원 SK 회장 \"AI 시대 시장 신뢰의 핵심은 독립적 이사회\"... 거버넌스...",
-    "description": "현재 SK㈜를 비롯해 SK하이닉스, SK이노베이션, SK텔레콤, SK스퀘어 등 SK수펙스추구협의회에 참여하는 주요 상장사 11곳은 모두 독립이사가 이사회 의장을 맡고 있다. 이는 경영진으로부터 독립된 이사회 운영을 통해...",
-    "url": "http://www.queen.co.kr/news/articleView.html?idxno=466574",
-    "publisher": "queen.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "코스피, 5090.04 상승 출발… 삼성전자·SK하이닉스 동반 강세",
-    "description": "대장주 삼성전자는 전 거래일 대비 1,300원(0.67%) 상승한 19만 6,000원에 거래되고 있으며, SK하이닉스 역시 8,000원(0.70%) 오른 115만 2,000원을 기록하며 동반 강세를 보이고 있다. 삼성전자우 또한 200원(0.13%) 오른...",
-    "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756717",
+    "title": "충북도, 네덜란드서 반도체 기업 투자유치 나서…13곳 방문 상담",
+    "description": "SK하이닉스 등 생산거점에 소재·부품·장비 기업이 모여 있는 충북을 대한민국 반도체 핵심지역으로 소개했다. 이어 개별 상담에서 도내 외국인투자지역의 입지, 임대료 감면과 현금지원 등을 설명했다. 18일에는...",
+    "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756803",
     "publisher": "gukjenews.com",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "코스피, 0.45% 오른 5090.04 개장…수능일 1시간 늦게 개장",
-    "description": "코스피는 전 거래일보다 0.45%(22.60포인트) 상승한 5090.04에 개장했습니다. 삼성전자와 SK하이닉스는 1% 내외의 상승세를 보이고 있습니다. 코스닥은 전장보다 0.83%(5.5포인트) 오른 668.31에 장을 시작했습니다.",
-    "url": "https://biz.sbs.co.kr/article_hub/20000347495?division=NAVER",
-    "publisher": "biz.sbs.co.kr",
+    "title": "삼성전자·SK하이닉스 상승 출발 뒤 급반전…장중 하락폭 2%대로 확대",
+    "description": "삼성전자와 SK하이닉스가 19일 장 초반 동반 하락 중이다. 삼성전자·SK하이닉스 상승 출발 뒤 하락 전환 이날 유가증권시장에서 삼성전자는 오전 10시23분 현재 전장보다 1.49% 내린 19만1800원에 거래되고 있다....",
+    "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000084408",
+    "publisher": "jnilbo.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "충북도, 네덜란드 반도체 기업 투자유치활동 전개",
+    "description": "SK하이닉스 등 반도체 생산거점과 소재·부품·장비 기업이 집적된 충북의 산업 경쟁력을 알리고 광반도체 분야 투자 가능성을 집중 설명했다. 발표 후에는 도내 외국인투자지역의 입지 여건과 임대료 감면, 현금지원...",
+    "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2314731",
+    "publisher": "daejonilbo.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "[마켓펄스] '빅스텝' 우려에 AI 수익성 경계감↑...5000피 또 붕괴",
+    "description": "이날 반도체 대장주인 삼성전자는 전장 대비 2.16% 약세고, SK하이닉스도 2.27% 하락 중이다. 코스닥은 전 거래일보다 5.50포인트(+0.83%) 오른 668.31에 장을 시작했다. 개인은 1391억원 순매수 중이고, 외국인과 기관은...",
+    "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=130964",
+    "publisher": "ntoday.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "코스피, 기관‧외국인 매도에 장중 5000선 내줘",
+    "description": "삼성전자와 SK하이닉스가 각각 2.11%, 1.4% 약세고 SK스퀘어 －1.83%, LG에너지솔루션 －2.13%, 삼성바이오로직스 －1.1%, KB금융 －1.66%, 현대차 －2.62%, 삼성생명 －2.16%, 삼성물산 －2.4% 등이 내렸다. 반면...",
+    "url": "https://view.asiae.co.kr/article/2026111910441343851",
+    "publisher": "view.asiae.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "청주시 내년 예산안 6조 221억원…역대 최대",
+    "description": "이 시장은 질의응답에서 내년도 SK하이닉스 관련 지방세가 1조 4000억원을 조금 웃돌 것으로 추산했다. 세출은 골목상권 활성화, 재난 대응과 복지, 첨단산업 기반 확충, 생활체육·문화시설, 교통·환경 개선에 중점을...",
+    "url": "https://www.newscj.com/news/articleView.html?idxno=3449722",
+    "publisher": "newscj.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "앤트로픽 공모 흥행…AI 투자심리 반전 이끌까",
+    "description": "국내 반도체 대장주인 삼성전자와 SK하이닉스의 주가 흐름도 관심사다. 이날 수능으로 평소보다 1시간 늦게 개장한 국내 증시에서 삼성전자와 SK하이닉스는 오전 10시9분 기준 각각 전 거래일보다 0.41% 하락한...",
+    "url": "https://www.cstimes.com/news/articleView.html?idxno=728554",
+    "publisher": "cstimes.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "반도체 산단 배후 주거지, 출퇴근 거리 넘어 ‘생활 인프라’로 선택 기...",
+    "description": "원삼면에서는 SK하이닉스의 용인 반도체 클러스터 일반산업단지가 조성되고 있고, 이동·남사읍 일대에서는 삼성전자의 첨단시스템반도체 국가산업단지가 추진 중이다. 대규모 반도체 산업거점이 잇따라 들어서면서...",
+    "url": "https://biz.heraldcorp.com/article/10942443?ref=naver",
+    "publisher": "biz.heraldcorp.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "'젠슨 황 공백'에 연준 매파까지 … 수능날 '코스피' 상승 출발 후 하락...",
+    "description": "SK하이닉스는 0.17% 내린 114만1000원을 나타내고 있다. 코스닥은 전일 대비 1.38p(0.21%) 내린 661.43을 기록 중이다. 코스닥도 5.50p(0.83%) 오른 668.31에 장을 열었으나 하락 전환했다. 코스닥 시장에서도 개인이 872억원을...",
+    "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950085.html",
+    "publisher": "biz.newdaily.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "또 5000선 무너진 코스피…반도체주 약세에 하락 전환[개장시황]",
+    "description": "다만 장 초반 삼성전자와 SK하이닉스 등 반도체 대형주가 하락 전환하면서 상승세가 지켜내지 못했다. 코스닥도 상승 출발했지만 이차전지와 로봇주를 중심으로 매도세가 나타나고 있다. 19일 한국거래소에...",
+    "url": "https://www.newsway.co.kr/news/view?ud=2026111910292767933",
+    "publisher": "newsway.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "반도체 산단 배후 주거지, 출퇴근 거리 넘어 ‘생활 인프라’로 선택 기...",
+    "description": "원삼면에서는 SK하이닉스의 용인 반도체 클러스터 일반산업단지가 조성되고 있고, 이동·남사읍 일대에서는 삼성전자의 첨단시스템반도체 국가산업단지가 추진 중이다. 대규모 반도체 산업거점이 잇따라 들어서면서...",
+    "url": "https://biz.heraldcorp.com/article/10942440?ref=naver",
+    "publisher": "biz.heraldcorp.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "코스피 하루 만에 다시 5000선 아래로…외국인 5거래일 연속 순매도",
+    "description": "삼성전자와 SK하이닉스는 2% 안팎 하락률을 보이고 있다. 이외 시가총액 상위 종목 중에선 LG에너지솔루션과 삼성전기가 보합권에서 움직이고 있고, 셀트리온(2.89%)이 상승 중이다. SK스퀘어(-1.55%)와 현대차(-0.94...",
+    "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000084406",
+    "publisher": "jnilbo.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "김태희 경기도의원, “반도체 방류수 안전성 확보…경기도 주도 민관 대...",
+    "description": "김 의원은 16일 보건환경연구원과 수자원본부 감사에서 SK하이닉스 이천공장 방류수 수질조사 결과 발표 과정의 문제점을 지적하며 조사·관리체계 개선 필요성을 제기했다. 그는 “반도체 방류수의 수질 안전성을...",
+    "url": "https://www.globalepic.co.kr/view.php?ud=202611181607468505f69d33b22_29",
+    "publisher": "globalepic.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "코스피, 엔비디아 하락에 4970선 약세",
+    "description": "삼성전자(-2.36%), SK하이닉스(-2.01%), SK스퀘어(-2.26%), 삼성전자우(-4.56%), 삼성전기(-0.62%), 현대차(-2.81%), LG에너지솔루션(-2.46%), 삼성생명(-2.16%), KB금융(-1.73%), 삼성바이오로직스(-0.81%)가 내리고 있다. 코스닥은...",
+    "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=668389",
+    "publisher": "kfenews.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "4분기 이익 눈높이, 상장사 3곳 중 2곳 낮아져",
+    "description": "반도체 대형주의 전망치도 높아졌다. 삼성전자의 4분기 영업이익 전망치는 122조 9466억 원에서 129조 3358억 원으로 5.2% 올랐다. SK하이닉스는 89조 493억 원에서 102조 9326억 원으로 15.6% 상승했다.",
+    "url": "https://www.busan.com/view/busan/view.php?code=2026111910303396382",
+    "publisher": "busan.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "[개장] 코스피, 앤트로픽 상장 앞두고 1%대 하락…5000선 내줘",
+    "description": "시가총액 상위 종목 가운데 삼성전자(-1.90%)와 SK하이닉스(-1.22%)가 동반 1%대 하락률을 보이고 있다. 이외에 현대차(-2.43%), 삼성생명(-2.16%), LG에너지솔루션(-2.13%), KB금융(-1.73%), SK스퀘어(-1.27...",
+    "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885053",
+    "publisher": "hansbiz.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "[특징주] 삼전·닉스, 앤트로픽 상장 앞두고 장 초반 1~2%대 하락",
+    "description": "삼성전자와 SK하이닉스가 19일 장 초반 동반 하락 중이다. 이날 유가증권시장에서 삼성전자는 오전 10시 23분 현재 전장보다 1.49% 내린 19만1천800원에 거래되고 있다. 삼성전자 매도 상위 창구에는 제이피모건이, 매수...",
+    "url": "https://www.yna.co.kr/view/AKR20261119060100008?input=1195m",
+    "publisher": "yna.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "[특징주] '삼전닉스' 2% 동반 약세⋯美 금리 인상 부담",
+    "description": "삼성전자와 SK하이닉스가 장 초반 2% 안팎의 약세를 보이고 있다. 미국의 금리 인상 가능성이 부각되면서 성장주 투자심리가 위축된 데다 엔비디아의 호실적에도 인공지능(AI) 산업의 투자 수익성을 둘러싼 우려가...",
+    "url": "http://www.inews24.com/view/2028060",
+    "publisher": "inews24.com",
     "pub_date": "2026-11-19"
    }
   ],
   "대규모 투자": [
    {
-    "title": "엔비디아 흔들려도 보합권서 버티는 코스피…\"관건은 앤스로픽 상장\"",
-    "description": "AI 투자심리 위축이 확인됐으나 앤스로픽 IPO에 대규모 수요가 집중됐다는 소식과 일부 기술주 매수세로 나스닥은 견조한 흐름을 보였다\"고 진단했다. 이어 \"AI 산업의 실질적 수요와 성장성 기대는 여전하지만...",
-    "url": "https://www.etoday.co.kr/news/view/2650226",
-    "publisher": "etoday.co.kr",
+    "title": "금융업계, 기업·경영인 성장 지원 넓힌다",
+    "description": "상장을 추진하는 이유는 '대규모 공모자금 조달'(64.8%), '기존 투자자 회수 지원'(55.6%) 순이었다. 은행에 기대하는 지원은 '상장 준비 자금 우대 지원'(58.4%), 'IR 행사 연계 및 투자자 매칭'(50.0%), '코스닥 상장 컨설팅...",
+    "url": "https://www.pressman.kr/news/articleView.html?idxno=104556",
+    "publisher": "pressman.kr",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "[특징주] 한한령 해제 기대감에…엔터테인먼트·미디어주 급등",
-    "description": "한국 가수들의 중국 내 음반 판매와 소규모 팬미팅, 굿즈 판매는 한한령 기간에도 이뤄졌지만 대규모 공연은 사실상 막혀 있었다. 신한투자증권에 따르면 한국의 전체 앨범 수출액에서 중국이 차지하는 비중은...",
-    "url": "https://biz.chosun.com/stock/stock_general/2026/11/19/MVMLGBL25VBCJKAEKKEV6CQLHM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "publisher": "biz.chosun.com",
+    "title": "코스피, 상승 출발 후 1%대 하락 전환...외국인 5거래일 연속 순매도",
+    "description": "앤트로픽의 상장 흥행은 AI 산업에 대한 투자 열기를 보여주는 긍정적인 신호지만, 대규모 자금이 신규 상장 종목으로 이동하면서 기존 증시의 수급에 부담을 줄 수 있다는 우려도 나온다. 국내 시가총액 상위...",
+    "url": "https://www.m-economynews.com/news/article.html?no=73281",
+    "publisher": "m-economynews.com",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "김천시의회 산업건설위 2일간 선진지 견학",
-    "description": "특히 스마트팜 시설 구축에 필요한 초기 투자비용과 유지관리비, 소득 증대와 노동력 절감 등에 관심을 가졌다. 이어, 17일에는 인천 하나금융그룹 청라 헤드쿼터를 방문해 기업의 대규모 업무시설 조성과 금융·IT 분야...",
-    "url": "https://tk.newdaily.co.kr/site/data/html/2026/11/19/2026111950071.html",
-    "publisher": "tk.newdaily.co.kr",
+    "title": "풀무원, 수익성 급감에도 사업 확장..실익 확보는 여전히 ‘안갯속’",
+    "description": "이와 관련 회사 관계자는 “위탁급식은 고객사 사업장 내에서 운영하는 모델로 대규모 설비 투자가 수반되는 구조는 아니다”라며 “투자 규모와 예상 매출, 손익분기점 시점 등 구체적인 수치는 공개하기 어렵다”고...",
+    "url": "https://kpenews.com/View.aspx?No=4319902",
+    "publisher": "kpenews.com",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "엔씨, AGF 첫 메인 스폰서 출격…'아스오라' 앞세워 서브컬처 공략",
-    "description": "엔씨는 MMORPG 중심의 사업 구조를 보완하기 위해 신규 지식재산권(IP) 확보와 외부 개발사 투자, 퍼블리싱... [사진=엔씨]] 엔씨가 AGF에 대규모 전시 공간을 마련한 배경에는 서브컬처 장르 특유의 팬덤 문화와 소비...",
-    "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=130958",
-    "publisher": "ntoday.co.kr",
+    "title": "셀루메드, '껍데기 법인'에 140억 대여…\"업무상 배임 소지\"",
+    "description": "사실상 정체가 불분명한 유령법인 측에 대규모 회삿돈이 향한 모양새다. 아울러 프라임코어는 또 다른 거래정지 업체에서도 투자 활동을 이어오고 있다. 올해 4월 디에이치엑스컴퍼니가 추진한 40억원 규모 유증에...",
+    "url": "https://www.sentv.co.kr/article/view/sentv202611110038",
+    "publisher": "sentv.co.kr",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "브로드컴, AMD와 AI 반도체 주도권 경쟁…2027년 시장 판도 변화 주목",
-    "description": "18일(현지시간) 미국 투자전문매체 24/7 월스트리트는 브로드컴과 AMD의 기업가치, AI 반도체 매출, 현금... 특히 대규모 데이터센터를 운영하는 기업들의 GPU 수요를 얼마나 확보하느냐가 향후 성장 속도를 좌우할 주요...",
-    "url": "https://www.jemin.com/news/articleView.html?idxno=847678",
+    "title": "한국투자공사 신임 CIO에 한화생명 출신 신민식씨 내정",
+    "description": "2021년 한화생명 투자사업본부장으로 자리를 옮겼고, 이후 투자사업본부와 전략투자본부를 합쳐 신설한 투자부문을 총괄했다. 증권사와 보험사에서 대규모 자산을 운용한 경험을 갖춘 것. 신용선 내정자는 KIC 설립...",
+    "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=301888",
+    "publisher": "financialpost.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "한한령 완화 中시장 재개되나",
+    "description": "한국과 중국의 경제협력이 서비스·투자 분야로 확대되면서 국내 기업들의 중국 시장 진출에 새로운... 신세계면세점은 대규모 단체관광객보다 구매력이 높은 소규모 단체와 기업 인센티브 관광객 유치에 무게를 두고...",
+    "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=366329",
+    "publisher": "smedaily.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "수원시의회 이동엽 의원, 4개 구 특성 살린 관광발전 전략 촉구",
+    "description": "이용 수요와 운영 여건, 기존 시설과의 차별점을 따져 민간투자 가능성을 찾아야 한다고 했다. 시설 하나를... 발언에 앞서 이 의원은 집행부에 도시관리계획 변경이나 대규모 시·도·국비 사업처럼 지역에 영향을 미치는...",
+    "url": "https://www.ajunews.com/view/20261119102300410",
+    "publisher": "ajunews.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "원, '슈퍼워크' 운영사 프로그라운드에 투자 단행...토큰 소각 정책 공동...",
+    "description": "원이 일상 리워드 앱 '슈퍼워크' 운영사 프로그라운드에 30억원을 투자하고, 사업 수익을 토큰 소각과... 에버번 정책은 1·2차 이중 소각과 대규모 보호예수로 설계됐다. 우선 '1차 소각'은 슈퍼워크 매출에서...",
+    "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=271900",
+    "publisher": "asiaa.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "'5000억 청구' 메디톡스, 항소심 선고 연기에 … 자금·美 진출 셈법 복...",
+    "description": "당장 내년 1월부터 대규모 차입금 만기도 잇따라 돌아온다. 미국 시장 진출을 위한 투자도 이어가고 있어, 소송 결과와 배상금 회수 시점이 향후 재무 운용에 중요한 변수가 될 전망이다. 19일 업계에 따르면...",
+    "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950048.html",
+    "publisher": "biz.newdaily.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "[문인찬의 新技術論] New Technology Paradigm #5",
+    "description": "12) 자율주행은 Physical AI의 가장 거대한 실험장이다 자동차는 Physical AI가 가장 먼저 대규모로 적용되고... 따라서 Physical AI 투자평가는 다음과 같이 접근해야 한다. ● Physical AI ROI = 생산성 + 품질 + 가동시간...",
+    "url": "https://www.kmaeil.com/news/articleView.html?idxno=658920",
+    "publisher": "kmaeil.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "맥쿼리·EQT·아레스까지 뛰어들었다…전력망 ESS에 몰리는 글로벌 투자...",
+    "description": "글로벌 사모펀드와 인프라 투자회사들이 대규모 ESS 확보에 잇따라 나서고 있다. 18일(현지시각) ESG 투데이에 따르면, 글로벌 사모펀드 EQT와 호주 맥쿼리그룹이  각각 미국과 영국에서 대규모 배터리 저장사업...",
+    "url": "https://www.impacton.net/news/articleView.html?idxno=30744",
+    "publisher": "impacton.net",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "美, 동남아 데이터센터 첨단칩 구매 허가제 도입…중국 AI 우회로 막는다",
+    "description": "조호르를 중심으로 대규모 데이터센터 투자가 진행 중인 데다 중국 고객에 대한 의존도도 높기 때문이다. 캐피털 이코노믹스의 리아 페이는 말레이시아 데이터센터 용량의 절반 이상이 코로케이션 시설에 집중돼 있으며...",
+    "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716615",
+    "publisher": "digitaltoday.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "개인 투자자, 미국 ETF에 꽂혔다… 미래에셋 TIGER 3종 순매수 9조원 돌...",
+    "description": "단기적인 시장 흐름에 따라 매매하기보다 글로벌 우량자산을 장기간 보유하려는 투자 전략이 확산하면서 미국 대표지수 ETF에 대규모 자금이 몰리는 모습이다. 미래에셋자산운용은 'TIGER 미국S&P500 ETF', 'TIGER...",
+    "url": "https://www.koreaittimes.com/news/articleView.html?idxno=159315",
+    "publisher": "koreaittimes.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "DXVX, 한미약품 이어 한미사이언스에 특별감사 요구",
+    "description": "대규모 투자와 자금대여가 재무건전성 및 주주가치에 영향을 미칠 수 있는 만큼 지주회사 차원의 관리·감독이 충분했는지도 점검해야 한다는 입장이다. DXVX는 특별감사의 독립성과 객관성을 확보하기 위해...",
+    "url": "http://www.finomy.com/news/articleView.html?idxno=267223",
+    "publisher": "finomy.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "코스피, 5020선 등락···엔비디아 호실적에도 AI 투자 우려 지속",
+    "description": "개별 기업의 실적보다 AI 데이터센터와 인프라 구축에 필요한 대규모 자본지출이 지속될 수 있는지, 이를 뒷받침할 자금 조달 부담은 어느 정도인지에 투자자들의 관심이 옮겨갔다는 분석이다. AI 산업의 성장...",
+    "url": "https://www.smartbizn.com/news/articleView.html?idxno=159931",
+    "publisher": "smartbizn.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "한중 FTA 서비스·투자 후속협상 타결에 중국시장 진출 확대 기대감 '솔...",
+    "description": "청와대가 한중 자유무역협정(FTA) 서비스·투자 후속협상 타결을 두고 양국 경제협력이 한 단계 올라설 발판이... 청와대 관계자는 대규모 인원이 모이는 공연은 콘텐츠와 다르게 다뤄진다면서도 \"공연을 허가해야 한다는...",
+    "url": "https://www.econovill.com/news/articleView.html?idxno=757793",
+    "publisher": "econovill.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "전남광주 통합지원금 활용 사업 발굴 착수…의견 '분분'",
+    "description": "이 경우 재정 여건이 열악하거나 사업 기획 역량이 부족한 농어촌 지역은 대규모 사업을 발굴하기 어려워 투자 심사에서 제외될 수 있다고 우려한다. 전남광주통합특별시의회는 이 같은 점을 제도적으로 보완하기 위해...",
+    "url": "https://www.yna.co.kr/view/AKR20261119062800054?input=1195m",
+    "publisher": "yna.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "라온피플, GPU 서버 없는 VLM 관제 확대…오딘 AI 엣지 출시",
+    "description": "대규모 서버를 구축하지 않고도 소규모 사업장에 VLM 기반 영상관제를 적용할 수 있도록 한 것이다. 특히 AI... 이번 엣지형 제품은 별도 서버 투자에 부담을 느끼는 중소형 사업장까지 고객층을 확대하기 위한 전략으로...",
+    "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576740947054",
+    "publisher": "megaeconomy.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "오라클, AI 투자 확대에 재무 부담 가중…신용위험 지표 최고 수준",
+    "description": "AI 반도체 수요가 여전히 강하다는 사실이 확인됐지만, 관련 인프라에 대규모 자금을 투자하는 기업들의 재무 부담에 대한 우려까지 해소하지는 못했다. 오라클은 클라우드 사업 확대를 위해 고성능 그래픽처리장치...",
+    "url": "https://www.jemin.com/news/articleView.html?idxno=847683",
     "publisher": "jemin.com",
     "pub_date": "2026-11-19"
    },
    {
-    "title": "\"코스피 역대급 낙폭에 바닥론 확산\"... 증권가 \"AI주 중심 반등 가능성...",
-    "description": "과거 대규모 하락 국면 이후 국내 증시가 1년 동안 평균 60% 가까운 반등세를 보였던 만큼, 증권가에서는 현재 구간을 중장기 관점의 투자 기회로 평가하는 목소리가 나오고 있다. 19일 한국거래소에 따르면 이날 기준...",
-    "url": "http://www.queen.co.kr/news/articleView.html?idxno=466578",
-    "publisher": "queen.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "도비도-난지도 연륙교 공론화…주민 \"생존권 위해 필요\"",
-    "description": "당진시 투자유치과장, 신완순 당진시개발위원장, 박철준 탄소중립실현본부 총재, 이관률 충남연구원 선임연구위원 등이 참여했다. 지역 주민도 150여명이 참석했다. 구경완 대표회장은 \"연륙교는 대규모...",
-    "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=720188",
-    "publisher": "newsfreezone.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "\"매출 34조 찍고도 순이익은 역성장…현대글로비스, 비용 늪에 빠진 '속...",
-    "description": "하나증권은 19일 현대글로비스에 대해 투자의견 'BUY'와 목표주가 28만원을 유지했다. 전일(11월 18일)... 여기에 선대 확장을 위한 대규모 자본지출(1조2000억원)이 맞물리며 올해 잉여현금흐름(FCF)은 7275억원으로...",
-    "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=305400",
-    "publisher": "newsquest.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "이동엽 수원시의원, 권선구 체험형 레저관광 육성 촉구",
-    "description": "민간투자 가능성을 살펴야 한다고 강조했다. 수원화성과 국제회의복합지구 등 기존 관광자원을 새... 이 의원은 관광 전략을 제안하기에 앞서 도시관리계획 변경이나 대규모 시·도·국비 사업 등 지역에 영향을 미치는...",
-    "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494467",
-    "publisher": "enewstoday.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "[N잡 앱테크] 신한 쏠퀴즈,11월 19일 오늘의 퀴즈 정답",
-    "description": "사용자가 많기에 대규모 유치가 가능하고, 사용자의 입장에서는 간편하게 모바일 앱으로 참여가... 신한SOL 앱은 은행, 카드, 투자, 보험 등 다양한 금융 자산을 통합 관리할 수 있는 '머니버스(Moneyverse)' 기반...",
-    "url": "https://www.job-post.co.kr/news/articleView.html?idxno=239449",
-    "publisher": "job-post.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "한한령 완화 기대에도⋯다올證 “엔터주 실적 기여, 빨라도 내년 하반기...",
-    "description": "특히 중국에서는 대규모 콘서트 개최가 제한된 상황에서도 팝업스토어와 팬사인회, 현지화 그룹의 투어 등 일부 활동이 이어져 왔다. 다올투자증권은 이를 근거로 중국 내 K팝 소비 기반이 유지되고 있다고 평가했다....",
-    "url": "https://www.viva100.com/article/20261119500347",
-    "publisher": "viva100.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "고양시, 대한민국 사회연대경제박람회 27일 개막…지역기업 성장 모색",
-    "description": "고양특례시가 전국 사회연대경제기업의 성과를 공유하고 지역경제 활성화 방안을 모색하는 대규모 박람회를... 공공구매 상담과 투자설명회, 기업 간 네트워킹 등도 마련해 기업의 사업 기회를 넓히고 사회연대경제의...",
-    "url": "https://www.ppss.kr/news/articleView.html?idxno=321852",
-    "publisher": "ppss.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "국내 중견기업들의 행보, 한국 배터리 산업 길 열리나",
-    "description": "물론 전시회 출품이 곧바로 대규모 수주나 양산을 보장하지는 않는다. 전시회는 기술과 제품을 공개하고... 한국투자증권 주식부I압구정지점 연세대학교 경영학사 강원대학교 공학석사 강원대학교 공학박사과정...",
-    "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286323&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-    "publisher": "ohmynews.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "구미 최초 민간공원 특례 아파트 공급된다",
-    "description": "단지의 가장 큰 특징은 대규모 공원과 맞닿은 주거환경이다. 민간공원 특례사업을 통해 조성되는... 로봇특화단지 지정과 삼성전자·삼성SDS의 19조원 규모 투자 계획 등 산업 분야 호재도 이어지고 있다. 견본주택은...",
-    "url": "https://www.edaily.co.kr/News/Read?newsId=02325526645647360&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-    "publisher": "edaily.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "이병철 삼성 창업회장 39주기…범삼성가 용인 선영서 추도식",
-    "description": "특히 1983년에는 반도체 사업 진출을 선언했다. 당시 74세였던 이 창업회장은 반도체를 미래 산업으로 판단하고 대규모 투자를 결정했다. 이후 반도체는 삼성전자의 핵심 사업으로 성장했다.",
-    "url": "https://www.etoday.co.kr/news/view/2650213",
-    "publisher": "etoday.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "브레이브, 1억3000만 이용자 위한 비공개 암호화폐 거래 추진",
-    "description": "누구나 이 기록을 이용해 지갑을 추적하거나 투자 전략을 복제하고 반대 거래에 나설 수 있다. 대규모 보유자는 사기와 절도의 표적이 될 수도 있다. 쉴드에서는 BAT 보유자가 이런 정보를 노출하지 않고 거래할 수 있다....",
-    "url": "https://www.tokenpost.kr/news/blockchain/440417",
-    "publisher": "tokenpost.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "마이크론, AI 메모리 공급 부족 장기화 전망…2028년까지 반도체 수급 압...",
-    "description": "18일(현지시간) 미국 투자전문매체 시킹알파(Seeking Alpha)에 따르면 마이크론은 향후 2년간 메모리 반도체 공급... 최근 AI 산업에서는 대규모 언어모델의 학습뿐 아니라 실제 서비스 운영에 필요한 추론 연산이 확대되면서...",
-    "url": "https://www.jemin.com/news/articleView.html?idxno=847677",
-    "publisher": "jemin.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "[AI는 지금] 앤트로픽, 스페이스X 넘었다…IPO 조달액 신기록",
-    "description": "그럼에도 앤트로픽 IPO에 대규모 자금이 몰리면서 AI 인프라뿐 아니라 AI 모델과 서비스 개발사에 대한 투자 수요가 확인됐다. 앤트로픽은 최첨단 AI 모델을 개발하는 이른바 '프론티어 AI' 개발사 가운데 처음으로...",
-    "url": "https://zdnet.co.kr/view/?no=20261119095703",
-    "publisher": "zdnet.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "원, 슈퍼워크에 30억 투자···토큰 소각 추진",
-    "description": "30억원을 투자하고, 사업 수익을 활용한 가상자산 소각에 나선다. 슈퍼워크의 매출 일부를 토큰 매입... 이는 특정 시점에 대규모 물량이 한꺼번에 유통되는 것을 제한하기 위한 조치다. ▲ 해제 물량 절반으로 ONE 매입...",
-    "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885031",
-    "publisher": "hansbiz.co.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "“한한령 풀리면 엔터주 최대 수혜…화장품·게임은 제한적”",
-    "description": "한국 가수들의 중국 내 음반 판매와 소규모 팬미팅, 굿즈 판매는 한한령 기간에도 이뤄졌지만 대규모 공연은 사실상 막혀 있었다. 신한투자증권에 따르면 한국의 전체 앨범 수출액에서 중국이 차지하는 비중은 2016년 36...",
-    "url": "https://www.edaily.co.kr/News/Read?newsId=02322246645647360&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-    "publisher": "edaily.co.kr",
+    "title": "IBK기업은행 \"부실기업 빠르게 내쫓고 기관 돈 물꼬 터라\"… 기업들 \"코...",
+    "description": "이들이 공모 시장의 문을 두드리는 주된 목적은 '대규모 공모 자금 확보'(64.8%)와 '초기 투자자의 원활한 회수(Exit) 지원'(55.6%)으로 나타났다. 이 과정에서 기업들이 금융권에 기대하는 실질적인 조력으로는 'IPO 준비...",
+    "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=132808",
+    "publisher": "dailysmart.co.kr",
     "pub_date": "2026-11-19"
    }
   ],
@@ -1853,6 +1853,34 @@
   ],
   "소비자물가": [
    {
+    "title": "'젠슨 황 공백'에 연준 매파까지 … 수능날 '코스피' 상승 출발 후 하락...",
+    "description": "회의 이후 발표된 소비자물가와 생산자물가 상승률이 모두 예상을 웃돌면서 시장은 12월 0.25%포인트 인상을 거의 확실시하고 있다. 라이언 데트릭 카슨그룹 수석 시장전략가는 \"인플레이션이 여전히 높은 수준에...",
+    "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950085.html",
+    "publisher": "biz.newdaily.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "KDI, 내년 성장률 3.9% 상향…반도체·AI가 견인차 역할",
+    "description": "KDI는 내년 국제유가가 올해보다 9%가량 하락하며 소비자물가 상승률이 2.4%로 낮아지겠지만, 수요 측면의 압력으로 근원물가는 2.5%의 높은 수준을 유지할 것으로 분석했다. 경제 구조가 반도체에 집중되면서 대외 환경...",
+    "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281661",
+    "publisher": "businesskorea.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "금시세(금값) 약세",
+    "description": "영국의 10월 소비자물가 상승률이 시장 예상치를 밑돈 가운데 파운드·달러 환율도 1.31504달러로 0.450% 내렸다. 달러 강세에는 미국의 긴축 전망과 주요국 통화 움직임이 함께...",
+    "url": "http://www.kjdaily.com/article.php?aid=1795051804692869227",
+    "publisher": "kjdaily.com",
+    "pub_date": "2026-11-19"
+   },
+   {
+    "title": "美 연준 매파 기조에 비트코인 '흔들'…ETF 자금 유출도 부담",
+    "description": "월러는 소비자물가지수(CPI)가 연준 목표치 2%를 5년째 웃도는 상황을 거론하며, 기업들이 연 3% 이상의 물가 인상을 소비자에게 전가하고 있다고 경고했다. 또 인플레이션 흐름을 잡기 위해서는 공격적인 조치가...",
+    "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716601",
+    "publisher": "digitaltoday.co.kr",
+    "pub_date": "2026-11-19"
+   },
+   {
     "title": "반도체 호황 낙수효과는 어디에…내수 회복 시험대",
     "description": "또 소비자물가는 국제유가 하락으로 올해(2.7%)보다 낮은 2.4% 상승할 것으로 봤다. 다만, 높은 반도체 의존도는 경제성장률 저해 요인으로 남아있다. KDI는 하반기 경제전망을 통해 “미국의 AI 데이터센터 건설 지연...",
     "url": "https://www.kukinews.com/article/view/kuk202611190037",
@@ -1963,34 +1991,6 @@
     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445451",
     "publisher": "news.einfomax.co.kr",
     "pub_date": "2026-11-19"
-   },
-   {
-    "title": "전기료·유가·관세 꺾인다…줄어드는 Fed의 금리 인상 부담",
-    "description": "전기요금은 소비자물가에 포함되는 항목이면서 유권자가 매달 고지서로 체감하는 지출이기 때문이다. 하지만 민주당은 AI 투자에 대해 ‘개발 중단’부터 ‘독립적인 검증’까지 다양하지만 보수적인 시각을 갖고...",
-    "url": "https://magazine.hankyung.com/business/article/202611171925b",
-    "publisher": "magazine.hankyung.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "엔비디아 호실적도 역부족... S&P500 5거래일 연속 하락 [뉴욕증시]",
-    "description": "미국의 10월 소비자물가지수(CPI)가 시장 예상치를 웃돈 상황에서 추가 긴축에 따른 금융비용 증가는 대규모 차입에 의존하는 AI 인프라 기업들의 수익성을 압박할 수 있는 요인이다. 유럽중앙은행(ECB)에서도 AI...",
-    "url": "https://www.m-i.kr/news/articleView.html?idxno=2020540",
-    "publisher": "m-i.kr",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "KDI “내년 성장률 3.9%”…반도체 생산 따라 3.5% 밑돌거나 4% 웃돌수도...",
-    "description": "KDI가 제시한 내년 소비자물가 상승률은 2.4%로 올해 전망치인 2.7%보다 낮다. 그러나 한국은행의 물가안정목표인 2%를 여전히 웃도는 만큼 당분간 통화정책의 긴축 기조를 유지해야 한다고 권고했다. 정부의 재정...",
-    "url": "https://www.sedaily.com/article/20116216?ref=naver",
-    "publisher": "sedaily.com",
-    "pub_date": "2026-11-19"
-   },
-   {
-    "title": "국제 금값, 연준 매파 기조에 3.2% 급락⋯14개월 만에 최저",
-    "description": "10월 FOMC 회의 이후 나온 소비자물가와 생산자물가는 모두 예상보다 높게 나왔다. 크리스토퍼 월러 연준 이사는 이날 CNBC와의 인터뷰에서 12월 기준금리를 0.5%포인트(P) 올리는 ‘빅스텝’을 다시 꺼내 들며 매파적...",
-    "url": "https://www.etoday.co.kr/news/view/2650081",
-    "publisher": "etoday.co.kr",
-    "pub_date": "2026-11-19"
    }
   ]
  },
@@ -2010,6 +2010,14 @@
    "rcept_dt": "20261119",
    "rcept_no": "20261119800082",
    "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119800082"
+  },
+  {
+   "corp_name": "이미지스",
+   "corp_cls": "K",
+   "report_nm": "단일판매ㆍ공급계약체결              ",
+   "rcept_dt": "20261119",
+   "rcept_no": "20261119900126",
+   "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261119900126"
   },
   {
    "corp_name": "판타지오",
